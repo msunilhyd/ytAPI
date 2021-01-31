@@ -44,7 +44,10 @@ class LeagueObject:
     def __str__(self):
         return ' League: ' + self.league_name + '\n matches: \t'+ str(self.match_list) + ' '+str(self.date)
 
-
+from pymongo import MongoClient
+client = MongoClient('localhost', 27017)
+db = client['charactersDB']
+characters = db['characters']
 
 league_objects_list = []
 
@@ -63,9 +66,14 @@ for lis in mylis:
         match_list.append(company_names_first[i].text + ' vs '+ company_names_second[i].text)
     league_object = LeagueObject(league_title.text, match_list)
 
-    print(league_object)
+    # print(league_object)
     league_objects_list.append(league_object)
     print("+++++++++++++++")
+    characters.insert_one(league_object.__dict__)
+    print(league_object.__dict__)
 
 print('000000000000')
+
 # print(league_objects_list)
+
+# db.characters.aggregate([ { $group : {_id: "$gender", result: {$sum: 1 } } } ]);
