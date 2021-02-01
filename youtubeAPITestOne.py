@@ -6,6 +6,21 @@ import urllib.request
 import json
 import datetime
 
+from pymongo import MongoClient
+client = MongoClient('localhost', 27017)
+db = client['charactersDB']
+characters = db['characters']
+
+for data in characters.find():
+    vid_id_list = []
+    for match in data.get('match_list'):
+        video_id = 'abc234d';
+        vid_id_list.append(video_id)
+    new_val = {'vid_id_list': vid_id_list};
+    characters.update_one({"_id": (data.get('_id'))},
+    {"$set": new_val})
+
+
 curDate = datetime.datetime.utcnow().isoformat() + "Z"
 print(curDate)
 splittedDate = curDate.split('T')
@@ -38,8 +53,8 @@ for x in res['items']:
         data = json.loads(response)
         all_data = data['items']
         duration = all_data[0]['contentDetails']['duration']
-        minutes = int(duration[2:].split('M')[0])
-        # print(minutes)
+        minutes = int((duration.split('M')[0])[2])
+        print(minutes)
         if minutes > vidLength:
             vidLength = minutes
             vidIdOfInt = vidId
