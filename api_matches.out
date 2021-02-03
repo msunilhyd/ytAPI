@@ -1,0 +1,347 @@
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 3, in <module>
+    youtube = build('youtube', 'v3', developerKey=api_key)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 268, in build
+    raise e
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 248, in build
+    content = _retrieve_discovery_doc(
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 316, in _retrieve_discovery_doc
+    resp, content = req.execute(num_retries=num_retries)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 400 when requesting https://www.googleapis.com/discovery/v1/apis/youtube/v3/rest?key=AIzaSyDvsWo8JCqz7nq-o8P7NUK2vHZgpVQ-T78 returned "API key not valid. Please pass a valid API key.". Details: "[{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'youtube.googleapis.com'}}]">
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 3, in <module>
+    youtube = build('youtube', 'v3', developerKey=api_key)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 268, in build
+    raise e
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 248, in build
+    content = _retrieve_discovery_doc(
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 316, in _retrieve_discovery_doc
+    resp, content = req.execute(num_retries=num_retries)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 400 when requesting https://www.googleapis.com/discovery/v1/apis/youtube/v3/rest?key=AIzaSyDvsWo8JCqz7nq-o8P7NUK2vHZgpVQ-T78 returned "API key not valid. Please pass a valid API key.". Details: "[{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'youtube.googleapis.com'}}]">
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 3, in <module>
+    youtube = build('youtube', 'v3', developerKey=api_key)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 268, in build
+    raise e
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 248, in build
+    content = _retrieve_discovery_doc(
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 316, in _retrieve_discovery_doc
+    resp, content = req.execute(num_retries=num_retries)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 400 when requesting https://www.googleapis.com/discovery/v1/apis/youtube/v3/rest?key=AIzaSyDvsWo8JCqz7nq-o8P7NUK2vHZgpVQ-T78 returned "API key not valid. Please pass a valid API key.". Details: "[{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'youtube.googleapis.com'}}]">
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 3, in <module>
+    youtube = build('youtube', 'v3', developerKey=api_key)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 268, in build
+    raise e
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 248, in build
+    content = _retrieve_discovery_doc(
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 316, in _retrieve_discovery_doc
+    resp, content = req.execute(num_retries=num_retries)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 400 when requesting https://www.googleapis.com/discovery/v1/apis/youtube/v3/rest?key=AIzaSyDvsWo8JCqz7nq-o8P7NUK2vHZgpVQ-T78 returned "API key not valid. Please pass a valid API key.". Details: "[{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'youtube.googleapis.com'}}]">
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 3, in <module>
+    youtube = build('youtube', 'v3', developerKey=api_key)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 268, in build
+    raise e
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 248, in build
+    content = _retrieve_discovery_doc(
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 316, in _retrieve_discovery_doc
+    resp, content = req.execute(num_retries=num_retries)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 400 when requesting https://www.googleapis.com/discovery/v1/apis/youtube/v3/rest?key=AIzaSyDvsWo8JCqz7nq-o8P7NUK2vHZgpVQ-T78 returned "API key not valid. Please pass a valid API key.". Details: "[{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'youtube.googleapis.com'}}]">
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 3, in <module>
+    youtube = build('youtube', 'v3', developerKey=api_key)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 268, in build
+    raise e
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 248, in build
+    content = _retrieve_discovery_doc(
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 316, in _retrieve_discovery_doc
+    resp, content = req.execute(num_retries=num_retries)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 400 when requesting https://www.googleapis.com/discovery/v1/apis/youtube/v3/rest?key=AIzaSyDvsWo8JCqz7nq-o8P7NUK2vHZgpVQ-T78 returned "API key not valid. Please pass a valid API key.". Details: "[{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'youtube.googleapis.com'}}]">
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 3, in <module>
+    youtube = build('youtube', 'v3', developerKey=api_key)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 268, in build
+    raise e
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 248, in build
+    content = _retrieve_discovery_doc(
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 316, in _retrieve_discovery_doc
+    resp, content = req.execute(num_retries=num_retries)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 400 when requesting https://www.googleapis.com/discovery/v1/apis/youtube/v3/rest?key=AIzaSyDvsWo8JCqz7nq-o8P7NUK2vHZgpVQ-T78 returned "API key not valid. Please pass a valid API key.". Details: "[{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'youtube.googleapis.com'}}]">
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 3, in <module>
+    youtube = build('youtube', 'v3', developerKey=api_key)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 268, in build
+    raise e
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 248, in build
+    content = _retrieve_discovery_doc(
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 316, in _retrieve_discovery_doc
+    resp, content = req.execute(num_retries=num_retries)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 400 when requesting https://www.googleapis.com/discovery/v1/apis/youtube/v3/rest?key=AIzaSyDvsWo8JCqz7nq-o8P7NUK2vHZgpVQ-T78 returned "API key not valid. Please pass a valid API key.". Details: "[{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'youtube.googleapis.com'}}]">
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 3, in <module>
+    youtube = build('youtube', 'v3', developerKey=api_key)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 268, in build
+    raise e
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 248, in build
+    content = _retrieve_discovery_doc(
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 316, in _retrieve_discovery_doc
+    resp, content = req.execute(num_retries=num_retries)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 400 when requesting https://www.googleapis.com/discovery/v1/apis/youtube/v3/rest?key=AIzaSyDvsWo8JCqz7nq-o8P7NUK2vHZgpVQ-T78 returned "API key not valid. Please pass a valid API key.". Details: "[{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'youtube.googleapis.com'}}]">
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 3, in <module>
+    youtube = build('youtube', 'v3', developerKey=api_key)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 268, in build
+    raise e
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 248, in build
+    content = _retrieve_discovery_doc(
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 316, in _retrieve_discovery_doc
+    resp, content = req.execute(num_retries=num_retries)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 400 when requesting https://www.googleapis.com/discovery/v1/apis/youtube/v3/rest?key=AIzaSyDvsWo8JCqz7nq-o8P7NUK2vHZgpVQ-T78 returned "API key not valid. Please pass a valid API key.". Details: "[{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'youtube.googleapis.com'}}]">
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 3, in <module>
+    youtube = build('youtube', 'v3', developerKey=api_key)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 268, in build
+    raise e
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 248, in build
+    content = _retrieve_discovery_doc(
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 316, in _retrieve_discovery_doc
+    resp, content = req.execute(num_retries=num_retries)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 400 when requesting https://www.googleapis.com/discovery/v1/apis/youtube/v3/rest?key=AIzaSyDvsWo8JCqz7nq-o8P7NUK2vHZgpVQ-T78 returned "API key not valid. Please pass a valid API key.". Details: "[{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'youtube.googleapis.com'}}]">
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 3, in <module>
+    youtube = build('youtube', 'v3', developerKey=api_key)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 268, in build
+    raise e
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 248, in build
+    content = _retrieve_discovery_doc(
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 316, in _retrieve_discovery_doc
+    resp, content = req.execute(num_retries=num_retries)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 400 when requesting https://www.googleapis.com/discovery/v1/apis/youtube/v3/rest?key=AIzaSyDvsWo8JCqz7nq-o8P7NUK2vHZgpVQ-T78 returned "API key not valid. Please pass a valid API key.". Details: "[{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'youtube.googleapis.com'}}]">
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 3, in <module>
+    youtube = build('youtube', 'v3', developerKey=api_key)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 268, in build
+    raise e
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 248, in build
+    content = _retrieve_discovery_doc(
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 316, in _retrieve_discovery_doc
+    resp, content = req.execute(num_retries=num_retries)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 400 when requesting https://www.googleapis.com/discovery/v1/apis/youtube/v3/rest?key=AIzaSyDvsWo8JCqz7nq-o8P7NUK2vHZgpVQ-T78 returned "API key not valid. Please pass a valid API key.". Details: "[{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'youtube.googleapis.com'}}]">
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 3, in <module>
+    youtube = build('youtube', 'v3', developerKey=api_key)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 268, in build
+    raise e
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 248, in build
+    content = _retrieve_discovery_doc(
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 316, in _retrieve_discovery_doc
+    resp, content = req.execute(num_retries=num_retries)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 400 when requesting https://www.googleapis.com/discovery/v1/apis/youtube/v3/rest?key=AIzaSyDvsWo8JCqz7nq-o8P7NUK2vHZgpVQ-T78 returned "API key not valid. Please pass a valid API key.". Details: "[{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'youtube.googleapis.com'}}]">
+2021-02-03T09:01:02.018194Z
+2021-02-03
+2021-02-02 kdj
+2021-02-03T09:02:02.406770Z
+2021-02-03
+2021-02-02 kdj
+2021-02-03T09:03:02.063030Z
+2021-02-03
+2021-02-02 kdj
+2021-02-03T09:04:02.418708Z
+2021-02-03
+2021-02-02 kdj
+2021-02-03T09:05:02.221478Z
+2021-02-03
+2021-02-02 kdj
+2021-02-03T09:06:02.130253Z
+2021-02-03
+2021-02-02 kdj
+2021-02-03T09:07:01.821400Z
+2021-02-03
+2021-02-02 kdj
+2021-02-03T09:08:02.298253Z
+2021-02-03
+2021-02-02 kdj
+2021-02-03T09:09:02.121239Z
+2021-02-03
+2021-02-02 kdj
+2021-02-03T09:10:01.877848Z
+2021-02-03
+2021-02-02 kdj
+2021-02-03T09:11:01.598748Z
+2021-02-03
+2021-02-02 kdj
+2021-02-03T09:12:02.473707Z
+2021-02-03
+2021-02-02 kdj
+2021-02-03T09:13:02.264742Z
+2021-02-03
+2021-02-02 kdj
+2021-02-03T09:14:02.101273Z
+2021-02-03
+2021-02-02 kdj
+2021-02-03T09:15:01.915383Z
+2021-02-03
+2021-02-02 kdj
+2021-02-03T09:16:01.568553Z
+2021-02-03
+2021-02-02 kdj
+2021-02-03T09:17:02.098660Z
+2021-02-03
+2021-02-02 kdj
+2021-02-03T09:18:01.771305Z
+2021-02-03
+2021-02-02 kdj
+2021-02-03T09:19:02.332587Z
+2021-02-03
+2021-02-02 kdj
+2021-02-03T09:20:02.101491Z
+2021-02-03
+2021-02-02 kdj
+2021-02-03T09:21:01.892508Z
+2021-02-03
+2021-02-02 kdj
+2021-02-03T09:22:01.649461Z
+2021-02-03
+2021-02-02 kdj
+2021-02-03T09:23:02.359522Z
+2021-02-03
+2021-02-02 kdj
+2021-02-03T09:24:02.129514Z
+2021-02-03
+2021-02-02 kdj
+2021-02-03T09:25:02.024927Z
+2021-02-03
+2021-02-02 kdj
+2021-02-03T09:26:01.691886Z
+2021-02-03
+2021-02-02 kdj
+2021-02-03T09:27:02.338078Z
+2021-02-03
+2021-02-02 kdj
+2021-02-03T09:28:02.074970Z
+2021-02-03
+2021-02-02 kdj
+2021-02-03T09:29:01.785467Z
+2021-02-03
+2021-02-02 kdj
+2021-02-03T09:30:01.818996Z
+2021-02-03
+2021-02-02 kdj
+2021-02-03T09:31:02.289183Z
+2021-02-03
+2021-02-02 kdj
+2021-02-03T09:32:01.839383Z
+2021-02-03
+2021-02-02 kdj
+2021-02-03T09:33:01.621062Z
+2021-02-03
+2021-02-02 kdj
+2021-02-03T09:34:02.488952Z
+2021-02-03
+2021-02-02 kdj
+2021-02-03T09:35:02.271712Z
+2021-02-03
+2021-02-02 kdj
+2021-02-03T09:36:01.804785Z
+2021-02-03
+2021-02-02 kdj
+2021-02-03T09:37:01.570033Z
+2021-02-03
+2021-02-02 kdj
+2021-02-03T09:38:02.181775Z
+2021-02-03
+2021-02-02 kdj
+2021-02-03T09:39:01.939573Z
+2021-02-03
+2021-02-02 kdj
+2021-02-03T09:40:02.283906Z
+2021-02-03
+2021-02-02 kdj
+2021-02-03T09:41:01.928782Z
+2021-02-03
+2021-02-02 kdj

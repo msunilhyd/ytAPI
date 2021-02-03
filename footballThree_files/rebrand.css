@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "Avenir-Black";
+  src: local("Avenir Black"), local("AvenirBlack"),
+    url(/fonts/Avenir-Black.woff2) format("woff2"),
+    url(/fonts/Avenir-Black.woff) format("woff");
+}
+@font-face {
+  font-family: "Avenir-Medium";
+  src: local("Avenir Medium"), local("AvenirMedium"),
+    url(/fonts/Avenir-Medium.woff2) format("woff2"),
+    url(/fonts/Avenir-Medium.woff) format("woff");
+}
+@font-face {
+  font-family: "Avenir-Roman";
+  src: local("Avenir Roman"), local("AvenirRoman"),
+    url(/fonts/Avenir-Roman.woff2) format("woff2"),
+    url(/fonts/Avenir-Roman.woff) format("woff");
+}
+@font-face {
+  font-family: "Playfair-Display";
+  src: url(/fonts/Playfair-Display.woff2) format("woff2"),
+    url(/fonts/Playfair-Display.woff) format("woff");
+}
+@font-face {
+  font-family: "Playfair-Display";
+  font-style: italic;
+  src: url(/fonts/Playfair-Display-Italic.woff2) format("woff2"),
+    url(/fonts/Playfair-Display-Italic.woff) format("woff");
+}

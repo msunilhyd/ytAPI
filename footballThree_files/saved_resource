@@ -1,0 +1,47 @@
+
+var ftGUID_4640774="4781354E4B8ABE";
+var ftConfID_4640774="21796396";
+var ftParams_4640774="ftOBA=1&ft_agentEnv=0&ft_referrer=https%3A%2F%2Fwww.sportinglife.com%2Ffootball%2Ffixtures&gdpr=${GDPR}&gdpr_consent=${GDPR_CONSENT}&gdpr_pd=${GDPR_PD}&us_privacy=${US_PRIVACY}&cachebuster=903569.8192992845";
+var ftKeyword_4640774="";
+var ftCustom_4640774="";
+var ftSection_4640774="";
+var ftSegment_4640774="";
+var ftSegmentList_4640774=[];
+var ftRuleMatch_4640774="0";
+var ftTimestamp_4640774="1612271204";
+var ftGeoC2_4640774="in";
+var ftGeoState_4640774="tg";
+var ftGeoCity_4640774="hyderabad";
+var ftISP_4640774="hathway cable and datacom pvt ltd";
+var ftSpeed_4640774="cable";
+var ftDMA_4640774="356006";
+var ftLong_4640774="78.51";
+var ftLat_4640774="17.4";
+var ftPostal_4640774="500044";
+var ftTimeZone_4640774="530";
+var ftMobileCarrier_4640774="";
+var ftImp4640774 = {};
+ftImp4640774.privacy = "x";
+ftImp4640774.guidAge = "-1";
+ftImp4640774.impID = "90BE2C70-D03B-CCFC-BD46-7DC407AFF29C";
+ftImp4640774.duid = "FT:4781354E4B8ABE";
+ftImp4640774.ft_tpplid = "";
+ftImp4640774.ft_c = {};
+ftImp4640774.gdpr = "!!GDPR!";
+ftImp4640774.gdpr_consent = "!!GDPR_CONSENT!";
+ftImp4640774.gdpr_pd = "!!GDPR_PD!";
+ftImp4640774.oob_consent = "0";
+ftImp4640774.gdprStoredConsent = "";
+ftImp4640774.us_privacy = "!!US_PRIVACY!";
+
+ftImp4640774.jsAppend = "1";
+(function(){
+    var tag = document.getElementById('ft_servedby_4640774') || (function(s){
+    	return s[s.length-1];
+    }(document.getElementsByTagName('script'))),
+           js = document.createElement('script');
+    js.src = 
+"https://cdn.flashtalking.com/xre/464/4640774/3064873/js/j-4640774-3064873.js";
+    js.id = "ftscript_m4640774";
+    tag.parentNode.insertBefore(js, tag);
+}());

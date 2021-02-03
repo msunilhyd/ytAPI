@@ -50,27 +50,31 @@ db = client['charactersDB']
 characters = db['characters']
 
 league_objects_list = []
-
+league_list_of_interest = ['English Premier League', 'Spanish Copa Del Rey', 'Portuguese Primeira Liga',
+    'Turkish Super Lig', 'Coppa Italia', 'FRENCH LIGUE 1']
 for lis in mylis:
     # company_names = lis.find_all('span', {"class": "CompactText__DataCompactText-sc-1rtlz3k-0 jdvCWg"})
     # print(lis)
     league_title = lis.find('h3', {"class": "ContentPanel__ContentPanelTitle-sc-1izwmji-1"})
     # print(league_title.text)
-    company_names_first = lis.find_all('span', {"class": "FootballMatchListItem__TeamA-sc-9lgblw-6 khEMhE"})
-    company_names_second = lis.find_all('span', {"class": "FootballMatchListItem__TeamB-sc-9lgblw-8 kVnMZR"})
+    company_names_first = lis.find_all('span', {"class": "FootballMatchListItem__TeamA-sc-9lgblw-6"})
+    company_names_second = lis.find_all('span', {"class": "FootballMatchListItem__TeamB-sc-9lgblw-8"})
+
 
     # print(len(company_names_first))
     # print(len(company_names_second))
     match_list = []
     for i in range(0, len(company_names_first)):
         match_list.append(company_names_first[i].text + ' vs '+ company_names_second[i].text)
+        print(match_list, '----')
     league_object = LeagueObject(league_title.text, match_list)
 
-    # print(league_object)
-    league_objects_list.append(league_object)
-    print("+++++++++++++++")
-    characters.insert_one(league_object.__dict__)
-    print(league_object.__dict__)
+    print(league_object)
+    if league_object.league_name in league_list_of_interest:
+        key = {'league_name': league_title.text, 'date': league_object.date }
+        characters.update_one(key, {"$set": league_object.__dict__}, upsert=True)
+        print("+++++++++++++++")
+        print(league_object.__dict__)
 
 print('000000000000')
 
