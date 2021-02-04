@@ -50,8 +50,13 @@ db = client['charactersDB']
 characters = db['characters']
 
 league_objects_list = []
-league_list_of_interest = ['English Premier League', 'Spanish Copa Del Rey', 'Portuguese Primeira Liga',
-    'Turkish Super Lig', 'Coppa Italia', 'FRENCH LIGUE 1']
+league_list_of_interest = ['English Premier League',
+'Spanish Copa Del Rey',
+'Portuguese Primeira Liga',
+'Turkish Super Lig',
+'Coppa Italia',
+'FRENCH LIGUE 1',
+'SPANISH LA LIGA']
 for lis in mylis:
     # company_names = lis.find_all('span', {"class": "CompactText__DataCompactText-sc-1rtlz3k-0 jdvCWg"})
     # print(lis)

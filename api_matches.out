@@ -345,3 +345,903 @@ googleapiclient.errors.HttpError: <HttpError 400 when requesting https://www.goo
 2021-02-03T09:41:01.928782Z
 2021-02-03
 2021-02-02 kdj
+2021-02-04T04:30:01.725375Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Burnley+vs+Manchester+City+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-04T04:31:01.834171Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Burnley+vs+Manchester+City+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-04T04:32:02.036165Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Burnley+vs+Manchester+City+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-04T04:33:01.663174Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Burnley+vs+Manchester+City+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-04T04:34:01.659103Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Burnley+vs+Manchester+City+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-04T04:35:01.683990Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Burnley+vs+Manchester+City+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-04T04:36:01.693328Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Burnley+vs+Manchester+City+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-04T04:37:01.699019Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 892, in execute
+    resp, content = _retry_request(
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 204, in _retry_request
+    raise exception
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 177, in _retry_request
+    resp, content = http.request(uri, method, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1948, in request
+    (response, content) = self._request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1621, in _request
+    (response, content) = self._conn_request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1528, in _conn_request
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1309, in connect
+    sock.connect((self.host, self.port))
+socket.timeout: timed out
+2021-02-04T04:38:01.678800Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 892, in execute
+    resp, content = _retry_request(
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 204, in _retry_request
+    raise exception
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 177, in _retry_request
+    resp, content = http.request(uri, method, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1948, in request
+    (response, content) = self._request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1621, in _request
+    (response, content) = self._conn_request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1528, in _conn_request
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1309, in connect
+    sock.connect((self.host, self.port))
+socket.timeout: timed out
+2021-02-04T04:39:01.850649Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 892, in execute
+    resp, content = _retry_request(
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 204, in _retry_request
+    raise exception
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 177, in _retry_request
+    resp, content = http.request(uri, method, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1948, in request
+    (response, content) = self._request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1621, in _request
+    (response, content) = self._conn_request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1528, in _conn_request
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1309, in connect
+    sock.connect((self.host, self.port))
+socket.timeout: timed out
+2021-02-04T04:40:01.922430Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 892, in execute
+    resp, content = _retry_request(
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 204, in _retry_request
+    raise exception
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 177, in _retry_request
+    resp, content = http.request(uri, method, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1948, in request
+    (response, content) = self._request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1621, in _request
+    (response, content) = self._conn_request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1528, in _conn_request
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1309, in connect
+    sock.connect((self.host, self.port))
+socket.timeout: timed out
+2021-02-04T04:41:01.926685Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 892, in execute
+    resp, content = _retry_request(
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 204, in _retry_request
+    raise exception
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 177, in _retry_request
+    resp, content = http.request(uri, method, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1948, in request
+    (response, content) = self._request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1621, in _request
+    (response, content) = self._conn_request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1528, in _conn_request
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1309, in connect
+    sock.connect((self.host, self.port))
+socket.timeout: timed out
+2021-02-04T04:42:02.001893Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Burnley+vs+Manchester+City+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-04T04:43:02.035603Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Burnley+vs+Manchester+City+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-04T04:44:02.017491Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Burnley+vs+Manchester+City+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-04T04:45:02.010268Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Burnley+vs+Manchester+City+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-04T04:46:03.532144Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Burnley+vs+Manchester+City+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-04T04:47:03.974407Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 892, in execute
+    resp, content = _retry_request(
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 204, in _retry_request
+    raise exception
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 177, in _retry_request
+    resp, content = http.request(uri, method, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1948, in request
+    (response, content) = self._request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1621, in _request
+    (response, content) = self._conn_request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1528, in _conn_request
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1309, in connect
+    sock.connect((self.host, self.port))
+socket.timeout: timed out
+2021-02-04T04:48:02.047677Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 892, in execute
+    resp, content = _retry_request(
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 204, in _retry_request
+    raise exception
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 177, in _retry_request
+    resp, content = http.request(uri, method, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1948, in request
+    (response, content) = self._request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1621, in _request
+    (response, content) = self._conn_request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1528, in _conn_request
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1309, in connect
+    sock.connect((self.host, self.port))
+socket.timeout: timed out
+2021-02-04T04:49:02.039167Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 892, in execute
+    resp, content = _retry_request(
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 204, in _retry_request
+    raise exception
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 177, in _retry_request
+    resp, content = http.request(uri, method, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1948, in request
+    (response, content) = self._request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1621, in _request
+    (response, content) = self._conn_request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1528, in _conn_request
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1309, in connect
+    sock.connect((self.host, self.port))
+socket.timeout: timed out
+2021-02-04T04:50:02.176309Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 892, in execute
+    resp, content = _retry_request(
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 204, in _retry_request
+    raise exception
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 177, in _retry_request
+    resp, content = http.request(uri, method, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1948, in request
+    (response, content) = self._request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1621, in _request
+    (response, content) = self._conn_request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1528, in _conn_request
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1309, in connect
+    sock.connect((self.host, self.port))
+socket.timeout: timed out
+2021-02-04T04:51:02.161735Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 892, in execute
+    resp, content = _retry_request(
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 204, in _retry_request
+    raise exception
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 177, in _retry_request
+    resp, content = http.request(uri, method, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1948, in request
+    (response, content) = self._request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1621, in _request
+    (response, content) = self._conn_request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1528, in _conn_request
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1309, in connect
+    sock.connect((self.host, self.port))
+socket.timeout: timed out
+2021-02-04T04:52:02.285134Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Burnley+vs+Manchester+City+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-04T04:53:02.297441Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Burnley+vs+Manchester+City+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-04T04:54:02.294991Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Burnley+vs+Manchester+City+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-04T04:55:02.334177Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Burnley+vs+Manchester+City+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-04T04:56:02.422176Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Burnley+vs+Manchester+City+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-04T04:57:01.408898Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Burnley+vs+Manchester+City+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-04T04:58:02.414635Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Burnley+vs+Manchester+City+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-04T04:59:02.405515Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Burnley+vs+Manchester+City+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-04T05:00:02.412718Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Burnley+vs+Manchester+City+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-04T05:01:02.444161Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Burnley+vs+Manchester+City+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-04T05:02:01.447659Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Burnley+vs+Manchester+City+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-04T05:03:01.483877Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Burnley+vs+Manchester+City+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-04T05:04:01.514955Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Burnley+vs+Manchester+City+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-04T05:05:01.520636Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Burnley+vs+Manchester+City+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-04T05:06:01.907768Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Burnley+vs+Manchester+City+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-04T05:07:02.144486Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Burnley+vs+Manchester+City+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-04T05:08:02.138560Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Burnley+vs+Manchester+City+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-04T05:09:02.167777Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Burnley+vs+Manchester+City+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-04T05:10:03.356095Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Burnley+vs+Manchester+City+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-04T05:11:02.398284Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Burnley+vs+Manchester+City+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-04T05:12:02.531495Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Burnley+vs+Manchester+City+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-04T05:13:01.579448Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Burnley+vs+Manchester+City+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-04T05:14:01.626253Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Burnley+vs+Manchester+City+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-04T05:15:01.636096Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Burnley+vs+Manchester+City+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-04T05:16:01.672817Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Burnley+vs+Manchester+City+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-04T05:17:01.932446Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Burnley+vs+Manchester+City+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-04T05:18:02.053434Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Burnley+vs+Manchester+City+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-04T05:19:02.121154Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Burnley+vs+Manchester+City+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-04T05:20:02.208111Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Burnley+vs+Manchester+City+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-04T05:21:02.285215Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Burnley+vs+Manchester+City+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-04T05:22:02.527925Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Burnley+vs+Manchester+City+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-04T05:23:01.608144Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Burnley+vs+Manchester+City+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-04T05:24:01.643792Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Burnley+vs+Manchester+City+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-04T05:25:01.712719Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Burnley+vs+Manchester+City+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-04T05:26:01.755065Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Burnley+vs+Manchester+City+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-04T05:27:01.773984Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Burnley+vs+Manchester+City+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-04T05:28:01.912832Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Burnley+vs+Manchester+City+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-04T05:29:01.936472Z
+2021-02-04
+2021-02-03 kdj
+{'_id': ObjectId('601a6306bf8b42460c84a5dc'), 'date': '2021-02-03', 'league_name': 'English Premier League', 'match_list': ['Burnley vs Manchester City', 'Fulham vs Leicester City', 'Leeds United vs Everton', 'Aston Villa vs West Ham United', 'Liverpool vs Brighton and Hove Albion']} 33333
+match is ++ Burnley vs Manchester City
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Burnley+vs+Manchester+City+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">

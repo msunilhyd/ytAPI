@@ -1,4 +1,4 @@
-api_key = "AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8"
+api_key = "AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs"
 from apiclient.discovery import build
 youtube = build('youtube', 'v3', developerKey=api_key)
 # print(type(youtube))
@@ -33,7 +33,7 @@ for data in characters.find({'date': prev_date}):
                 maxResults=10)
         # print(type(req))
         res = req.execute()
-        # print(len(res['items']))
+        print(len(res['items']))
         vidLength = 0
         vidIdOfInt = ''
         # print('vidOfInt length is : ',  len(vidOfInt))
