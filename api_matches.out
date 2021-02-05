@@ -1245,3 +1245,1274 @@ Traceback (most recent call last):
   File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
     raise HttpError(resp, content, uri=self.uri)
 googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Burnley+vs+Manchester+City+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-05T04:30:01.669904Z
+2021-02-05
+2021-02-04 kdj
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea']} 33333
+match is ++ Tottenham Hotspur vs Chelsea
+10
+
+['nfVtiW7YV4Q']
+{'vid_id_list': ['nfVtiW7YV4Q']} 999999
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea']} 11111
+601c594abf8b42460c84acd5 888888
+English Premier League
+{'_id': ObjectId('601c594abf8b42460c84acd7'), 'date': '2021-02-04', 'league_name': 'Spanish Copa Del Rey', 'match_list': ['Real Betis vs Athletic Club']} 33333
+match is ++ Real Betis vs Athletic Club
+10
+
+['eSxSHEQMJBg']
+{'vid_id_list': ['eSxSHEQMJBg']} 999999
+{'_id': ObjectId('601c594abf8b42460c84acd7'), 'date': '2021-02-04', 'league_name': 'Spanish Copa Del Rey', 'match_list': ['Real Betis vs Athletic Club']} 11111
+601c594abf8b42460c84acd7 888888
+Spanish Copa Del Rey
+{'_id': ObjectId('601c594abf8b42460c84acd9'), 'date': '2021-02-04', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['SC Farense vs Santa Clara', 'Belenenses vs FC Porto', 'Sporting Braga vs Portimonense', 'FC Famalicão vs Moreirense']} 33333
+match is ++ SC Farense vs Santa Clara
+10
+
+match is ++ Belenenses vs FC Porto
+10
+
+match is ++ Sporting Braga vs Portimonense
+10
+
+match is ++ FC Famalicão vs Moreirense
+10
+
+['7t1jeOmDOrs', 'R41zf1azCmA', 'B9S6QVArFIE', 'a3snZntDW44']
+{'vid_id_list': ['7t1jeOmDOrs', 'R41zf1azCmA', 'B9S6QVArFIE', 'a3snZntDW44']} 999999
+{'_id': ObjectId('601c594abf8b42460c84acd9'), 'date': '2021-02-04', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['SC Farense vs Santa Clara', 'Belenenses vs FC Porto', 'Sporting Braga vs Portimonense', 'FC Famalicão vs Moreirense']} 11111
+601c594abf8b42460c84acd9 888888
+Portuguese Primeira Liga
+{'_id': ObjectId('601c594abf8b42460c84acdb'), 'date': '2021-02-04', 'league_name': 'Turkish Super Lig', 'match_list': ['Göztepe S.K. vs Yeni Malatyaspor', 'Trabzonspor vs Denizlispor']} 33333
+match is ++ Göztepe S.K. vs Yeni Malatyaspor
+10
+
+match is ++ Trabzonspor vs Denizlispor
+10
+
+['00vgB_dzdpU', 'Py4hKxiQ1uQ']
+{'vid_id_list': ['00vgB_dzdpU', 'Py4hKxiQ1uQ']} 999999
+{'_id': ObjectId('601c594abf8b42460c84acdb'), 'date': '2021-02-04', 'league_name': 'Turkish Super Lig', 'match_list': ['Göztepe S.K. vs Yeni Malatyaspor', 'Trabzonspor vs Denizlispor']} 11111
+601c594abf8b42460c84acdb 888888
+Turkish Super Lig
+2021-02-05T04:31:02.201652Z
+2021-02-05
+2021-02-04 kdj
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 33333
+match is ++ Tottenham Hotspur vs Chelsea
+10
+
+['nfVtiW7YV4Q']
+{'vid_id_list': ['nfVtiW7YV4Q']} 999999
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 11111
+601c594abf8b42460c84acd5 888888
+English Premier League
+{'_id': ObjectId('601c594abf8b42460c84acd7'), 'date': '2021-02-04', 'league_name': 'Spanish Copa Del Rey', 'match_list': ['Real Betis vs Athletic Club'], 'vid_id_list': ['eSxSHEQMJBg']} 33333
+match is ++ Real Betis vs Athletic Club
+10
+
+['eSxSHEQMJBg']
+{'vid_id_list': ['eSxSHEQMJBg']} 999999
+{'_id': ObjectId('601c594abf8b42460c84acd7'), 'date': '2021-02-04', 'league_name': 'Spanish Copa Del Rey', 'match_list': ['Real Betis vs Athletic Club'], 'vid_id_list': ['eSxSHEQMJBg']} 11111
+601c594abf8b42460c84acd7 888888
+Spanish Copa Del Rey
+{'_id': ObjectId('601c594abf8b42460c84acd9'), 'date': '2021-02-04', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['SC Farense vs Santa Clara', 'Belenenses vs FC Porto', 'Sporting Braga vs Portimonense', 'FC Famalicão vs Moreirense'], 'vid_id_list': ['7t1jeOmDOrs', 'R41zf1azCmA', 'B9S6QVArFIE', 'a3snZntDW44']} 33333
+match is ++ SC Farense vs Santa Clara
+10
+
+match is ++ Belenenses vs FC Porto
+10
+
+match is ++ Sporting Braga vs Portimonense
+10
+
+match is ++ FC Famalicão vs Moreirense
+10
+
+['7t1jeOmDOrs', 'R41zf1azCmA', 'B9S6QVArFIE', 'a3snZntDW44']
+{'vid_id_list': ['7t1jeOmDOrs', 'R41zf1azCmA', 'B9S6QVArFIE', 'a3snZntDW44']} 999999
+{'_id': ObjectId('601c594abf8b42460c84acd9'), 'date': '2021-02-04', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['SC Farense vs Santa Clara', 'Belenenses vs FC Porto', 'Sporting Braga vs Portimonense', 'FC Famalicão vs Moreirense'], 'vid_id_list': ['7t1jeOmDOrs', 'R41zf1azCmA', 'B9S6QVArFIE', 'a3snZntDW44']} 11111
+601c594abf8b42460c84acd9 888888
+Portuguese Primeira Liga
+{'_id': ObjectId('601c594abf8b42460c84acdb'), 'date': '2021-02-04', 'league_name': 'Turkish Super Lig', 'match_list': ['Göztepe S.K. vs Yeni Malatyaspor', 'Trabzonspor vs Denizlispor'], 'vid_id_list': ['00vgB_dzdpU', 'Py4hKxiQ1uQ']} 33333
+match is ++ Göztepe S.K. vs Yeni Malatyaspor
+10
+
+match is ++ Trabzonspor vs Denizlispor
+10
+
+['00vgB_dzdpU', 'f31QM-krnK0']
+{'vid_id_list': ['00vgB_dzdpU', 'f31QM-krnK0']} 999999
+{'_id': ObjectId('601c594abf8b42460c84acdb'), 'date': '2021-02-04', 'league_name': 'Turkish Super Lig', 'match_list': ['Göztepe S.K. vs Yeni Malatyaspor', 'Trabzonspor vs Denizlispor'], 'vid_id_list': ['00vgB_dzdpU', 'Py4hKxiQ1uQ']} 11111
+601c594abf8b42460c84acdb 888888
+Turkish Super Lig
+2021-02-05T04:32:01.696132Z
+2021-02-05
+2021-02-04 kdj
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 33333
+match is ++ Tottenham Hotspur vs Chelsea
+10
+
+['nfVtiW7YV4Q']
+{'vid_id_list': ['nfVtiW7YV4Q']} 999999
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 11111
+601c594abf8b42460c84acd5 888888
+English Premier League
+{'_id': ObjectId('601c594abf8b42460c84acd7'), 'date': '2021-02-04', 'league_name': 'Spanish Copa Del Rey', 'match_list': ['Real Betis vs Athletic Club'], 'vid_id_list': ['eSxSHEQMJBg']} 33333
+match is ++ Real Betis vs Athletic Club
+10
+
+['eSxSHEQMJBg']
+{'vid_id_list': ['eSxSHEQMJBg']} 999999
+{'_id': ObjectId('601c594abf8b42460c84acd7'), 'date': '2021-02-04', 'league_name': 'Spanish Copa Del Rey', 'match_list': ['Real Betis vs Athletic Club'], 'vid_id_list': ['eSxSHEQMJBg']} 11111
+601c594abf8b42460c84acd7 888888
+Spanish Copa Del Rey
+{'_id': ObjectId('601c594abf8b42460c84acd9'), 'date': '2021-02-04', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['SC Farense vs Santa Clara', 'Belenenses vs FC Porto', 'Sporting Braga vs Portimonense', 'FC Famalicão vs Moreirense'], 'vid_id_list': ['7t1jeOmDOrs', 'R41zf1azCmA', 'B9S6QVArFIE', 'a3snZntDW44']} 33333
+match is ++ SC Farense vs Santa Clara
+10
+
+match is ++ Belenenses vs FC Porto
+10
+
+match is ++ Sporting Braga vs Portimonense
+10
+
+match is ++ FC Famalicão vs Moreirense
+10
+
+['7t1jeOmDOrs', 'R41zf1azCmA', 'B9S6QVArFIE', 'a3snZntDW44']
+{'vid_id_list': ['7t1jeOmDOrs', 'R41zf1azCmA', 'B9S6QVArFIE', 'a3snZntDW44']} 999999
+{'_id': ObjectId('601c594abf8b42460c84acd9'), 'date': '2021-02-04', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['SC Farense vs Santa Clara', 'Belenenses vs FC Porto', 'Sporting Braga vs Portimonense', 'FC Famalicão vs Moreirense'], 'vid_id_list': ['7t1jeOmDOrs', 'R41zf1azCmA', 'B9S6QVArFIE', 'a3snZntDW44']} 11111
+601c594abf8b42460c84acd9 888888
+Portuguese Primeira Liga
+{'_id': ObjectId('601c594abf8b42460c84acdb'), 'date': '2021-02-04', 'league_name': 'Turkish Super Lig', 'match_list': ['Göztepe S.K. vs Yeni Malatyaspor', 'Trabzonspor vs Denizlispor'], 'vid_id_list': ['00vgB_dzdpU', 'f31QM-krnK0']} 33333
+match is ++ Göztepe S.K. vs Yeni Malatyaspor
+10
+
+match is ++ Trabzonspor vs Denizlispor
+10
+
+['00vgB_dzdpU', 'Py4hKxiQ1uQ']
+{'vid_id_list': ['00vgB_dzdpU', 'Py4hKxiQ1uQ']} 999999
+{'_id': ObjectId('601c594abf8b42460c84acdb'), 'date': '2021-02-04', 'league_name': 'Turkish Super Lig', 'match_list': ['Göztepe S.K. vs Yeni Malatyaspor', 'Trabzonspor vs Denizlispor'], 'vid_id_list': ['00vgB_dzdpU', 'f31QM-krnK0']} 11111
+601c594abf8b42460c84acdb 888888
+Turkish Super Lig
+2021-02-05T04:33:02.200778Z
+2021-02-05
+2021-02-04 kdj
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 33333
+match is ++ Tottenham Hotspur vs Chelsea
+10
+
+['nfVtiW7YV4Q']
+{'vid_id_list': ['nfVtiW7YV4Q']} 999999
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 11111
+601c594abf8b42460c84acd5 888888
+English Premier League
+{'_id': ObjectId('601c594abf8b42460c84acd7'), 'date': '2021-02-04', 'league_name': 'Spanish Copa Del Rey', 'match_list': ['Real Betis vs Athletic Club'], 'vid_id_list': ['eSxSHEQMJBg']} 33333
+match is ++ Real Betis vs Athletic Club
+10
+
+['eSxSHEQMJBg']
+{'vid_id_list': ['eSxSHEQMJBg']} 999999
+{'_id': ObjectId('601c594abf8b42460c84acd7'), 'date': '2021-02-04', 'league_name': 'Spanish Copa Del Rey', 'match_list': ['Real Betis vs Athletic Club'], 'vid_id_list': ['eSxSHEQMJBg']} 11111
+601c594abf8b42460c84acd7 888888
+Spanish Copa Del Rey
+{'_id': ObjectId('601c594abf8b42460c84acd9'), 'date': '2021-02-04', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['SC Farense vs Santa Clara', 'Belenenses vs FC Porto', 'Sporting Braga vs Portimonense', 'FC Famalicão vs Moreirense'], 'vid_id_list': ['7t1jeOmDOrs', 'R41zf1azCmA', 'B9S6QVArFIE', 'a3snZntDW44']} 33333
+match is ++ SC Farense vs Santa Clara
+10
+
+match is ++ Belenenses vs FC Porto
+10
+
+match is ++ Sporting Braga vs Portimonense
+10
+
+match is ++ FC Famalicão vs Moreirense
+10
+
+['7t1jeOmDOrs', 'R41zf1azCmA', 'B9S6QVArFIE', 'a3snZntDW44']
+{'vid_id_list': ['7t1jeOmDOrs', 'R41zf1azCmA', 'B9S6QVArFIE', 'a3snZntDW44']} 999999
+{'_id': ObjectId('601c594abf8b42460c84acd9'), 'date': '2021-02-04', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['SC Farense vs Santa Clara', 'Belenenses vs FC Porto', 'Sporting Braga vs Portimonense', 'FC Famalicão vs Moreirense'], 'vid_id_list': ['7t1jeOmDOrs', 'R41zf1azCmA', 'B9S6QVArFIE', 'a3snZntDW44']} 11111
+601c594abf8b42460c84acd9 888888
+Portuguese Primeira Liga
+{'_id': ObjectId('601c594abf8b42460c84acdb'), 'date': '2021-02-04', 'league_name': 'Turkish Super Lig', 'match_list': ['Göztepe S.K. vs Yeni Malatyaspor', 'Trabzonspor vs Denizlispor'], 'vid_id_list': ['00vgB_dzdpU', 'Py4hKxiQ1uQ']} 33333
+match is ++ Göztepe S.K. vs Yeni Malatyaspor
+10
+
+match is ++ Trabzonspor vs Denizlispor
+10
+
+['00vgB_dzdpU', 'Py4hKxiQ1uQ']
+{'vid_id_list': ['00vgB_dzdpU', 'Py4hKxiQ1uQ']} 999999
+{'_id': ObjectId('601c594abf8b42460c84acdb'), 'date': '2021-02-04', 'league_name': 'Turkish Super Lig', 'match_list': ['Göztepe S.K. vs Yeni Malatyaspor', 'Trabzonspor vs Denizlispor'], 'vid_id_list': ['00vgB_dzdpU', 'Py4hKxiQ1uQ']} 11111
+601c594abf8b42460c84acdb 888888
+Turkish Super Lig
+2021-02-05T04:34:02.729602Z
+2021-02-05
+2021-02-04 kdj
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 33333
+match is ++ Tottenham Hotspur vs Chelsea
+10
+
+['nfVtiW7YV4Q']
+{'vid_id_list': ['nfVtiW7YV4Q']} 999999
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 11111
+601c594abf8b42460c84acd5 888888
+English Premier League
+{'_id': ObjectId('601c594abf8b42460c84acd7'), 'date': '2021-02-04', 'league_name': 'Spanish Copa Del Rey', 'match_list': ['Real Betis vs Athletic Club'], 'vid_id_list': ['eSxSHEQMJBg']} 33333
+match is ++ Real Betis vs Athletic Club
+10
+
+['eSxSHEQMJBg']
+{'vid_id_list': ['eSxSHEQMJBg']} 999999
+{'_id': ObjectId('601c594abf8b42460c84acd7'), 'date': '2021-02-04', 'league_name': 'Spanish Copa Del Rey', 'match_list': ['Real Betis vs Athletic Club'], 'vid_id_list': ['eSxSHEQMJBg']} 11111
+601c594abf8b42460c84acd7 888888
+Spanish Copa Del Rey
+{'_id': ObjectId('601c594abf8b42460c84acd9'), 'date': '2021-02-04', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['SC Farense vs Santa Clara', 'Belenenses vs FC Porto', 'Sporting Braga vs Portimonense', 'FC Famalicão vs Moreirense'], 'vid_id_list': ['7t1jeOmDOrs', 'R41zf1azCmA', 'B9S6QVArFIE', 'a3snZntDW44']} 33333
+match is ++ SC Farense vs Santa Clara
+10
+
+match is ++ Belenenses vs FC Porto
+10
+
+match is ++ Sporting Braga vs Portimonense
+10
+
+match is ++ FC Famalicão vs Moreirense
+10
+
+['7t1jeOmDOrs', 'R41zf1azCmA', 'B9S6QVArFIE', 'a3snZntDW44']
+{'vid_id_list': ['7t1jeOmDOrs', 'R41zf1azCmA', 'B9S6QVArFIE', 'a3snZntDW44']} 999999
+{'_id': ObjectId('601c594abf8b42460c84acd9'), 'date': '2021-02-04', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['SC Farense vs Santa Clara', 'Belenenses vs FC Porto', 'Sporting Braga vs Portimonense', 'FC Famalicão vs Moreirense'], 'vid_id_list': ['7t1jeOmDOrs', 'R41zf1azCmA', 'B9S6QVArFIE', 'a3snZntDW44']} 11111
+601c594abf8b42460c84acd9 888888
+Portuguese Primeira Liga
+{'_id': ObjectId('601c594abf8b42460c84acdb'), 'date': '2021-02-04', 'league_name': 'Turkish Super Lig', 'match_list': ['Göztepe S.K. vs Yeni Malatyaspor', 'Trabzonspor vs Denizlispor'], 'vid_id_list': ['00vgB_dzdpU', 'Py4hKxiQ1uQ']} 33333
+match is ++ Göztepe S.K. vs Yeni Malatyaspor
+10
+
+match is ++ Trabzonspor vs Denizlispor
+10
+
+['00vgB_dzdpU', 'Py4hKxiQ1uQ']
+{'vid_id_list': ['00vgB_dzdpU', 'Py4hKxiQ1uQ']} 999999
+{'_id': ObjectId('601c594abf8b42460c84acdb'), 'date': '2021-02-04', 'league_name': 'Turkish Super Lig', 'match_list': ['Göztepe S.K. vs Yeni Malatyaspor', 'Trabzonspor vs Denizlispor'], 'vid_id_list': ['00vgB_dzdpU', 'Py4hKxiQ1uQ']} 11111
+601c594abf8b42460c84acdb 888888
+Turkish Super Lig
+2021-02-05T04:35:01.729445Z
+2021-02-05
+2021-02-04 kdj
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 33333
+match is ++ Tottenham Hotspur vs Chelsea
+10
+
+['nfVtiW7YV4Q']
+{'vid_id_list': ['nfVtiW7YV4Q']} 999999
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 11111
+601c594abf8b42460c84acd5 888888
+English Premier League
+{'_id': ObjectId('601c594abf8b42460c84acd7'), 'date': '2021-02-04', 'league_name': 'Spanish Copa Del Rey', 'match_list': ['Real Betis vs Athletic Club'], 'vid_id_list': ['eSxSHEQMJBg']} 33333
+match is ++ Real Betis vs Athletic Club
+10
+
+['eSxSHEQMJBg']
+{'vid_id_list': ['eSxSHEQMJBg']} 999999
+{'_id': ObjectId('601c594abf8b42460c84acd7'), 'date': '2021-02-04', 'league_name': 'Spanish Copa Del Rey', 'match_list': ['Real Betis vs Athletic Club'], 'vid_id_list': ['eSxSHEQMJBg']} 11111
+601c594abf8b42460c84acd7 888888
+Spanish Copa Del Rey
+{'_id': ObjectId('601c594abf8b42460c84acd9'), 'date': '2021-02-04', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['SC Farense vs Santa Clara', 'Belenenses vs FC Porto', 'Sporting Braga vs Portimonense', 'FC Famalicão vs Moreirense'], 'vid_id_list': ['7t1jeOmDOrs', 'R41zf1azCmA', 'B9S6QVArFIE', 'a3snZntDW44']} 33333
+match is ++ SC Farense vs Santa Clara
+10
+
+match is ++ Belenenses vs FC Porto
+10
+
+match is ++ Sporting Braga vs Portimonense
+10
+
+match is ++ FC Famalicão vs Moreirense
+10
+
+['7t1jeOmDOrs', 'R41zf1azCmA', 'B9S6QVArFIE', 'a3snZntDW44']
+{'vid_id_list': ['7t1jeOmDOrs', 'R41zf1azCmA', 'B9S6QVArFIE', 'a3snZntDW44']} 999999
+{'_id': ObjectId('601c594abf8b42460c84acd9'), 'date': '2021-02-04', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['SC Farense vs Santa Clara', 'Belenenses vs FC Porto', 'Sporting Braga vs Portimonense', 'FC Famalicão vs Moreirense'], 'vid_id_list': ['7t1jeOmDOrs', 'R41zf1azCmA', 'B9S6QVArFIE', 'a3snZntDW44']} 11111
+601c594abf8b42460c84acd9 888888
+Portuguese Primeira Liga
+{'_id': ObjectId('601c594abf8b42460c84acdb'), 'date': '2021-02-04', 'league_name': 'Turkish Super Lig', 'match_list': ['Göztepe S.K. vs Yeni Malatyaspor', 'Trabzonspor vs Denizlispor'], 'vid_id_list': ['00vgB_dzdpU', 'Py4hKxiQ1uQ']} 33333
+match is ++ Göztepe S.K. vs Yeni Malatyaspor
+10
+
+match is ++ Trabzonspor vs Denizlispor
+10
+
+['00vgB_dzdpU', 'f31QM-krnK0']
+{'vid_id_list': ['00vgB_dzdpU', 'f31QM-krnK0']} 999999
+{'_id': ObjectId('601c594abf8b42460c84acdb'), 'date': '2021-02-04', 'league_name': 'Turkish Super Lig', 'match_list': ['Göztepe S.K. vs Yeni Malatyaspor', 'Trabzonspor vs Denizlispor'], 'vid_id_list': ['00vgB_dzdpU', 'Py4hKxiQ1uQ']} 11111
+601c594abf8b42460c84acdb 888888
+Turkish Super Lig
+2021-02-05T04:36:01.707372Z
+2021-02-05
+2021-02-04 kdj
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 33333
+match is ++ Tottenham Hotspur vs Chelsea
+10
+
+['nfVtiW7YV4Q']
+{'vid_id_list': ['nfVtiW7YV4Q']} 999999
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 11111
+601c594abf8b42460c84acd5 888888
+English Premier League
+{'_id': ObjectId('601c594abf8b42460c84acd7'), 'date': '2021-02-04', 'league_name': 'Spanish Copa Del Rey', 'match_list': ['Real Betis vs Athletic Club'], 'vid_id_list': ['eSxSHEQMJBg']} 33333
+match is ++ Real Betis vs Athletic Club
+10
+
+['eSxSHEQMJBg']
+{'vid_id_list': ['eSxSHEQMJBg']} 999999
+{'_id': ObjectId('601c594abf8b42460c84acd7'), 'date': '2021-02-04', 'league_name': 'Spanish Copa Del Rey', 'match_list': ['Real Betis vs Athletic Club'], 'vid_id_list': ['eSxSHEQMJBg']} 11111
+601c594abf8b42460c84acd7 888888
+Spanish Copa Del Rey
+{'_id': ObjectId('601c594abf8b42460c84acd9'), 'date': '2021-02-04', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['SC Farense vs Santa Clara', 'Belenenses vs FC Porto', 'Sporting Braga vs Portimonense', 'FC Famalicão vs Moreirense'], 'vid_id_list': ['7t1jeOmDOrs', 'R41zf1azCmA', 'B9S6QVArFIE', 'a3snZntDW44']} 33333
+match is ++ SC Farense vs Santa Clara
+10
+
+match is ++ Belenenses vs FC Porto
+10
+
+match is ++ Sporting Braga vs Portimonense
+10
+
+match is ++ FC Famalicão vs Moreirense
+10
+
+['7t1jeOmDOrs', 'R41zf1azCmA', 'B9S6QVArFIE', 'a3snZntDW44']
+{'vid_id_list': ['7t1jeOmDOrs', 'R41zf1azCmA', 'B9S6QVArFIE', 'a3snZntDW44']} 999999
+{'_id': ObjectId('601c594abf8b42460c84acd9'), 'date': '2021-02-04', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['SC Farense vs Santa Clara', 'Belenenses vs FC Porto', 'Sporting Braga vs Portimonense', 'FC Famalicão vs Moreirense'], 'vid_id_list': ['7t1jeOmDOrs', 'R41zf1azCmA', 'B9S6QVArFIE', 'a3snZntDW44']} 11111
+601c594abf8b42460c84acd9 888888
+Portuguese Primeira Liga
+{'_id': ObjectId('601c594abf8b42460c84acdb'), 'date': '2021-02-04', 'league_name': 'Turkish Super Lig', 'match_list': ['Göztepe S.K. vs Yeni Malatyaspor', 'Trabzonspor vs Denizlispor'], 'vid_id_list': ['00vgB_dzdpU', 'f31QM-krnK0']} 33333
+match is ++ Göztepe S.K. vs Yeni Malatyaspor
+10
+
+match is ++ Trabzonspor vs Denizlispor
+10
+
+['00vgB_dzdpU', 'Py4hKxiQ1uQ']
+{'vid_id_list': ['00vgB_dzdpU', 'Py4hKxiQ1uQ']} 999999
+{'_id': ObjectId('601c594abf8b42460c84acdb'), 'date': '2021-02-04', 'league_name': 'Turkish Super Lig', 'match_list': ['Göztepe S.K. vs Yeni Malatyaspor', 'Trabzonspor vs Denizlispor'], 'vid_id_list': ['00vgB_dzdpU', 'f31QM-krnK0']} 11111
+601c594abf8b42460c84acdb 888888
+Turkish Super Lig
+2021-02-05T04:37:02.231004Z
+2021-02-05
+2021-02-04 kdj
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 33333
+match is ++ Tottenham Hotspur vs Chelsea
+10
+
+['nfVtiW7YV4Q']
+{'vid_id_list': ['nfVtiW7YV4Q']} 999999
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 11111
+601c594abf8b42460c84acd5 888888
+English Premier League
+{'_id': ObjectId('601c594abf8b42460c84acd7'), 'date': '2021-02-04', 'league_name': 'Spanish Copa Del Rey', 'match_list': ['Real Betis vs Athletic Club'], 'vid_id_list': ['eSxSHEQMJBg']} 33333
+match is ++ Real Betis vs Athletic Club
+10
+
+['eSxSHEQMJBg']
+{'vid_id_list': ['eSxSHEQMJBg']} 999999
+{'_id': ObjectId('601c594abf8b42460c84acd7'), 'date': '2021-02-04', 'league_name': 'Spanish Copa Del Rey', 'match_list': ['Real Betis vs Athletic Club'], 'vid_id_list': ['eSxSHEQMJBg']} 11111
+601c594abf8b42460c84acd7 888888
+Spanish Copa Del Rey
+{'_id': ObjectId('601c594abf8b42460c84acd9'), 'date': '2021-02-04', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['SC Farense vs Santa Clara', 'Belenenses vs FC Porto', 'Sporting Braga vs Portimonense', 'FC Famalicão vs Moreirense'], 'vid_id_list': ['7t1jeOmDOrs', 'R41zf1azCmA', 'B9S6QVArFIE', 'a3snZntDW44']} 33333
+match is ++ SC Farense vs Santa Clara
+10
+
+match is ++ Belenenses vs FC Porto
+10
+
+match is ++ Sporting Braga vs Portimonense
+10
+
+match is ++ FC Famalicão vs Moreirense
+10
+
+['7t1jeOmDOrs', 'R41zf1azCmA', 'B9S6QVArFIE', 'a3snZntDW44']
+{'vid_id_list': ['7t1jeOmDOrs', 'R41zf1azCmA', 'B9S6QVArFIE', 'a3snZntDW44']} 999999
+{'_id': ObjectId('601c594abf8b42460c84acd9'), 'date': '2021-02-04', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['SC Farense vs Santa Clara', 'Belenenses vs FC Porto', 'Sporting Braga vs Portimonense', 'FC Famalicão vs Moreirense'], 'vid_id_list': ['7t1jeOmDOrs', 'R41zf1azCmA', 'B9S6QVArFIE', 'a3snZntDW44']} 11111
+601c594abf8b42460c84acd9 888888
+Portuguese Primeira Liga
+{'_id': ObjectId('601c594abf8b42460c84acdb'), 'date': '2021-02-04', 'league_name': 'Turkish Super Lig', 'match_list': ['Göztepe S.K. vs Yeni Malatyaspor', 'Trabzonspor vs Denizlispor'], 'vid_id_list': ['00vgB_dzdpU', 'Py4hKxiQ1uQ']} 33333
+match is ++ Göztepe S.K. vs Yeni Malatyaspor
+10
+
+match is ++ Trabzonspor vs Denizlispor
+10
+
+['00vgB_dzdpU', 'f31QM-krnK0']
+{'vid_id_list': ['00vgB_dzdpU', 'f31QM-krnK0']} 999999
+{'_id': ObjectId('601c594abf8b42460c84acdb'), 'date': '2021-02-04', 'league_name': 'Turkish Super Lig', 'match_list': ['Göztepe S.K. vs Yeni Malatyaspor', 'Trabzonspor vs Denizlispor'], 'vid_id_list': ['00vgB_dzdpU', 'Py4hKxiQ1uQ']} 11111
+601c594abf8b42460c84acdb 888888
+Turkish Super Lig
+2021-02-05T04:38:02.227090Z
+2021-02-05
+2021-02-04 kdj
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 33333
+match is ++ Tottenham Hotspur vs Chelsea
+10
+
+['nfVtiW7YV4Q']
+{'vid_id_list': ['nfVtiW7YV4Q']} 999999
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 11111
+601c594abf8b42460c84acd5 888888
+English Premier League
+{'_id': ObjectId('601c594abf8b42460c84acd7'), 'date': '2021-02-04', 'league_name': 'Spanish Copa Del Rey', 'match_list': ['Real Betis vs Athletic Club'], 'vid_id_list': ['eSxSHEQMJBg']} 33333
+match is ++ Real Betis vs Athletic Club
+10
+
+['eSxSHEQMJBg']
+{'vid_id_list': ['eSxSHEQMJBg']} 999999
+{'_id': ObjectId('601c594abf8b42460c84acd7'), 'date': '2021-02-04', 'league_name': 'Spanish Copa Del Rey', 'match_list': ['Real Betis vs Athletic Club'], 'vid_id_list': ['eSxSHEQMJBg']} 11111
+601c594abf8b42460c84acd7 888888
+Spanish Copa Del Rey
+{'_id': ObjectId('601c594abf8b42460c84acd9'), 'date': '2021-02-04', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['SC Farense vs Santa Clara', 'Belenenses vs FC Porto', 'Sporting Braga vs Portimonense', 'FC Famalicão vs Moreirense'], 'vid_id_list': ['7t1jeOmDOrs', 'R41zf1azCmA', 'B9S6QVArFIE', 'a3snZntDW44']} 33333
+match is ++ SC Farense vs Santa Clara
+10
+
+match is ++ Belenenses vs FC Porto
+10
+
+match is ++ Sporting Braga vs Portimonense
+10
+
+match is ++ FC Famalicão vs Moreirense
+10
+
+['7t1jeOmDOrs', 'R41zf1azCmA', 'B9S6QVArFIE', 'a3snZntDW44']
+{'vid_id_list': ['7t1jeOmDOrs', 'R41zf1azCmA', 'B9S6QVArFIE', 'a3snZntDW44']} 999999
+{'_id': ObjectId('601c594abf8b42460c84acd9'), 'date': '2021-02-04', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['SC Farense vs Santa Clara', 'Belenenses vs FC Porto', 'Sporting Braga vs Portimonense', 'FC Famalicão vs Moreirense'], 'vid_id_list': ['7t1jeOmDOrs', 'R41zf1azCmA', 'B9S6QVArFIE', 'a3snZntDW44']} 11111
+601c594abf8b42460c84acd9 888888
+Portuguese Primeira Liga
+{'_id': ObjectId('601c594abf8b42460c84acdb'), 'date': '2021-02-04', 'league_name': 'Turkish Super Lig', 'match_list': ['Göztepe S.K. vs Yeni Malatyaspor', 'Trabzonspor vs Denizlispor'], 'vid_id_list': ['00vgB_dzdpU', 'f31QM-krnK0']} 33333
+match is ++ Göztepe S.K. vs Yeni Malatyaspor
+10
+
+match is ++ Trabzonspor vs Denizlispor
+10
+
+['00vgB_dzdpU', 'Py4hKxiQ1uQ']
+{'vid_id_list': ['00vgB_dzdpU', 'Py4hKxiQ1uQ']} 999999
+{'_id': ObjectId('601c594abf8b42460c84acdb'), 'date': '2021-02-04', 'league_name': 'Turkish Super Lig', 'match_list': ['Göztepe S.K. vs Yeni Malatyaspor', 'Trabzonspor vs Denizlispor'], 'vid_id_list': ['00vgB_dzdpU', 'f31QM-krnK0']} 11111
+601c594abf8b42460c84acdb 888888
+Turkish Super Lig
+2021-02-05T04:39:02.274783Z
+2021-02-05
+2021-02-04 kdj
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 33333
+match is ++ Tottenham Hotspur vs Chelsea
+10
+
+['nfVtiW7YV4Q']
+{'vid_id_list': ['nfVtiW7YV4Q']} 999999
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 11111
+601c594abf8b42460c84acd5 888888
+English Premier League
+{'_id': ObjectId('601c594abf8b42460c84acd7'), 'date': '2021-02-04', 'league_name': 'Spanish Copa Del Rey', 'match_list': ['Real Betis vs Athletic Club'], 'vid_id_list': ['eSxSHEQMJBg']} 33333
+match is ++ Real Betis vs Athletic Club
+10
+
+['eSxSHEQMJBg']
+{'vid_id_list': ['eSxSHEQMJBg']} 999999
+{'_id': ObjectId('601c594abf8b42460c84acd7'), 'date': '2021-02-04', 'league_name': 'Spanish Copa Del Rey', 'match_list': ['Real Betis vs Athletic Club'], 'vid_id_list': ['eSxSHEQMJBg']} 11111
+601c594abf8b42460c84acd7 888888
+Spanish Copa Del Rey
+{'_id': ObjectId('601c594abf8b42460c84acd9'), 'date': '2021-02-04', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['SC Farense vs Santa Clara', 'Belenenses vs FC Porto', 'Sporting Braga vs Portimonense', 'FC Famalicão vs Moreirense'], 'vid_id_list': ['7t1jeOmDOrs', 'R41zf1azCmA', 'B9S6QVArFIE', 'a3snZntDW44']} 33333
+match is ++ SC Farense vs Santa Clara
+10
+
+match is ++ Belenenses vs FC Porto
+10
+
+match is ++ Sporting Braga vs Portimonense
+10
+
+match is ++ FC Famalicão vs Moreirense
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=FC+Famalic%C3%A3o+vs+Moreirense+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-05T04:40:02.298031Z
+2021-02-05
+2021-02-04 kdj
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 33333
+match is ++ Tottenham Hotspur vs Chelsea
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Tottenham+Hotspur+vs+Chelsea+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-05T04:41:02.300700Z
+2021-02-05
+2021-02-04 kdj
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 33333
+match is ++ Tottenham Hotspur vs Chelsea
+10
+
+['nfVtiW7YV4Q']
+{'vid_id_list': ['nfVtiW7YV4Q']} 999999
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 11111
+601c594abf8b42460c84acd5 888888
+English Premier League
+{'_id': ObjectId('601c594abf8b42460c84acd7'), 'date': '2021-02-04', 'league_name': 'Spanish Copa Del Rey', 'match_list': ['Real Betis vs Athletic Club'], 'vid_id_list': ['eSxSHEQMJBg']} 33333
+match is ++ Real Betis vs Athletic Club
+10
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 53, in <module>
+    response = urllib.request.urlopen(searchUrl).read()
+  File "/usr/lib/python3.8/urllib/request.py", line 222, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.8/urllib/request.py", line 531, in open
+    response = meth(req, response)
+  File "/usr/lib/python3.8/urllib/request.py", line 640, in http_response
+    response = self.parent.error(
+  File "/usr/lib/python3.8/urllib/request.py", line 569, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python3.8/urllib/request.py", line 502, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.8/urllib/request.py", line 649, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 403: Forbidden
+2021-02-05T04:42:02.291681Z
+2021-02-05
+2021-02-04 kdj
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 33333
+match is ++ Tottenham Hotspur vs Chelsea
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Tottenham+Hotspur+vs+Chelsea+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-05T04:43:02.296875Z
+2021-02-05
+2021-02-04 kdj
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 33333
+match is ++ Tottenham Hotspur vs Chelsea
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Tottenham+Hotspur+vs+Chelsea+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-05T04:44:02.335342Z
+2021-02-05
+2021-02-04 kdj
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 33333
+match is ++ Tottenham Hotspur vs Chelsea
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Tottenham+Hotspur+vs+Chelsea+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-05T04:45:02.310756Z
+2021-02-05
+2021-02-04 kdj
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 33333
+match is ++ Tottenham Hotspur vs Chelsea
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Tottenham+Hotspur+vs+Chelsea+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-05T04:46:02.291663Z
+2021-02-05
+2021-02-04 kdj
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 33333
+match is ++ Tottenham Hotspur vs Chelsea
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Tottenham+Hotspur+vs+Chelsea+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-05T04:47:02.296359Z
+2021-02-05
+2021-02-04 kdj
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 33333
+match is ++ Tottenham Hotspur vs Chelsea
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Tottenham+Hotspur+vs+Chelsea+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-05T04:48:02.303445Z
+2021-02-05
+2021-02-04 kdj
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 33333
+match is ++ Tottenham Hotspur vs Chelsea
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Tottenham+Hotspur+vs+Chelsea+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-05T04:49:02.303953Z
+2021-02-05
+2021-02-04 kdj
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 33333
+match is ++ Tottenham Hotspur vs Chelsea
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Tottenham+Hotspur+vs+Chelsea+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-05T04:50:02.496203Z
+2021-02-05
+2021-02-04 kdj
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 33333
+match is ++ Tottenham Hotspur vs Chelsea
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Tottenham+Hotspur+vs+Chelsea+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-05T04:51:02.009538Z
+2021-02-05
+2021-02-04 kdj
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 33333
+match is ++ Tottenham Hotspur vs Chelsea
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Tottenham+Hotspur+vs+Chelsea+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-05T04:52:01.989506Z
+2021-02-05
+2021-02-04 kdj
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 33333
+match is ++ Tottenham Hotspur vs Chelsea
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Tottenham+Hotspur+vs+Chelsea+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-05T04:53:01.998930Z
+2021-02-05
+2021-02-04 kdj
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 33333
+match is ++ Tottenham Hotspur vs Chelsea
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Tottenham+Hotspur+vs+Chelsea+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-05T04:54:02.004165Z
+2021-02-05
+2021-02-04 kdj
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 33333
+match is ++ Tottenham Hotspur vs Chelsea
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Tottenham+Hotspur+vs+Chelsea+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-05T04:55:02.009612Z
+2021-02-05
+2021-02-04 kdj
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 33333
+match is ++ Tottenham Hotspur vs Chelsea
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Tottenham+Hotspur+vs+Chelsea+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-05T04:56:02.034980Z
+2021-02-05
+2021-02-04 kdj
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 33333
+match is ++ Tottenham Hotspur vs Chelsea
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Tottenham+Hotspur+vs+Chelsea+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-05T04:57:02.029383Z
+2021-02-05
+2021-02-04 kdj
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 33333
+match is ++ Tottenham Hotspur vs Chelsea
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Tottenham+Hotspur+vs+Chelsea+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-05T04:58:02.027548Z
+2021-02-05
+2021-02-04 kdj
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 33333
+match is ++ Tottenham Hotspur vs Chelsea
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Tottenham+Hotspur+vs+Chelsea+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-05T04:59:02.003916Z
+2021-02-05
+2021-02-04 kdj
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 33333
+match is ++ Tottenham Hotspur vs Chelsea
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Tottenham+Hotspur+vs+Chelsea+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-05T05:00:02.080011Z
+2021-02-05
+2021-02-04 kdj
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 33333
+match is ++ Tottenham Hotspur vs Chelsea
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Tottenham+Hotspur+vs+Chelsea+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-05T05:01:01.595831Z
+2021-02-05
+2021-02-04 kdj
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 33333
+match is ++ Tottenham Hotspur vs Chelsea
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Tottenham+Hotspur+vs+Chelsea+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-05T05:02:01.614752Z
+2021-02-05
+2021-02-04 kdj
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 33333
+match is ++ Tottenham Hotspur vs Chelsea
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Tottenham+Hotspur+vs+Chelsea+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-05T05:03:01.624512Z
+2021-02-05
+2021-02-04 kdj
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 33333
+match is ++ Tottenham Hotspur vs Chelsea
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Tottenham+Hotspur+vs+Chelsea+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-05T05:04:01.640727Z
+2021-02-05
+2021-02-04 kdj
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 33333
+match is ++ Tottenham Hotspur vs Chelsea
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Tottenham+Hotspur+vs+Chelsea+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 3, in <module>
+    youtube = build('youtube', 'v3', developerKey=api_key)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 248, in build
+    content = _retrieve_discovery_doc(
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 316, in _retrieve_discovery_doc
+    resp, content = req.execute(num_retries=num_retries)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 892, in execute
+    resp, content = _retry_request(
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 204, in _retry_request
+    raise exception
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 177, in _retry_request
+    resp, content = http.request(uri, method, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1948, in request
+    (response, content) = self._request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1621, in _request
+    (response, content) = self._conn_request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1528, in _conn_request
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1309, in connect
+    sock.connect((self.host, self.port))
+socket.timeout: timed out
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 3, in <module>
+    youtube = build('youtube', 'v3', developerKey=api_key)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 248, in build
+    content = _retrieve_discovery_doc(
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 316, in _retrieve_discovery_doc
+    resp, content = req.execute(num_retries=num_retries)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 892, in execute
+    resp, content = _retry_request(
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 204, in _retry_request
+    raise exception
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 177, in _retry_request
+    resp, content = http.request(uri, method, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1948, in request
+    (response, content) = self._request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1621, in _request
+    (response, content) = self._conn_request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1528, in _conn_request
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1309, in connect
+    sock.connect((self.host, self.port))
+socket.timeout: timed out
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 3, in <module>
+    youtube = build('youtube', 'v3', developerKey=api_key)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 248, in build
+    content = _retrieve_discovery_doc(
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 316, in _retrieve_discovery_doc
+    resp, content = req.execute(num_retries=num_retries)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 892, in execute
+    resp, content = _retry_request(
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 204, in _retry_request
+    raise exception
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 177, in _retry_request
+    resp, content = http.request(uri, method, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1948, in request
+    (response, content) = self._request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1621, in _request
+    (response, content) = self._conn_request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1528, in _conn_request
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1309, in connect
+    sock.connect((self.host, self.port))
+socket.timeout: timed out
+2021-02-05T05:10:02.199395Z
+2021-02-05
+2021-02-04 kdj
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 33333
+match is ++ Tottenham Hotspur vs Chelsea
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Tottenham+Hotspur+vs+Chelsea+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 3, in <module>
+    youtube = build('youtube', 'v3', developerKey=api_key)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 248, in build
+    content = _retrieve_discovery_doc(
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 316, in _retrieve_discovery_doc
+    resp, content = req.execute(num_retries=num_retries)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 892, in execute
+    resp, content = _retry_request(
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 204, in _retry_request
+    raise exception
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 177, in _retry_request
+    resp, content = http.request(uri, method, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1948, in request
+    (response, content) = self._request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1621, in _request
+    (response, content) = self._conn_request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1528, in _conn_request
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1309, in connect
+    sock.connect((self.host, self.port))
+socket.timeout: timed out
+2021-02-05T05:10:03.816138Z
+2021-02-05
+2021-02-04 kdj
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 33333
+match is ++ Tottenham Hotspur vs Chelsea
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Tottenham+Hotspur+vs+Chelsea+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-05T05:11:02.029512Z
+2021-02-05
+2021-02-04 kdj
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 33333
+match is ++ Tottenham Hotspur vs Chelsea
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Tottenham+Hotspur+vs+Chelsea+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-05T05:12:04.885403Z
+2021-02-05
+2021-02-04 kdj
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 33333
+match is ++ Tottenham Hotspur vs Chelsea
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Tottenham+Hotspur+vs+Chelsea+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-05T05:13:01.423067Z
+2021-02-05
+2021-02-04 kdj
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 33333
+match is ++ Tottenham Hotspur vs Chelsea
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Tottenham+Hotspur+vs+Chelsea+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-05T05:14:01.414437Z
+2021-02-05
+2021-02-04 kdj
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 33333
+match is ++ Tottenham Hotspur vs Chelsea
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Tottenham+Hotspur+vs+Chelsea+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-05T05:15:02.457820Z
+2021-02-05
+2021-02-04 kdj
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 33333
+match is ++ Tottenham Hotspur vs Chelsea
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Tottenham+Hotspur+vs+Chelsea+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-05T05:16:01.440439Z
+2021-02-05
+2021-02-04 kdj
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 33333
+match is ++ Tottenham Hotspur vs Chelsea
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Tottenham+Hotspur+vs+Chelsea+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-05T05:17:01.448383Z
+2021-02-05
+2021-02-04 kdj
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 33333
+match is ++ Tottenham Hotspur vs Chelsea
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Tottenham+Hotspur+vs+Chelsea+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-05T05:18:01.620568Z
+2021-02-05
+2021-02-04 kdj
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 33333
+match is ++ Tottenham Hotspur vs Chelsea
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Tottenham+Hotspur+vs+Chelsea+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-05T05:19:01.655028Z
+2021-02-05
+2021-02-04 kdj
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 33333
+match is ++ Tottenham Hotspur vs Chelsea
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Tottenham+Hotspur+vs+Chelsea+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-05T05:20:01.699467Z
+2021-02-05
+2021-02-04 kdj
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 33333
+match is ++ Tottenham Hotspur vs Chelsea
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Tottenham+Hotspur+vs+Chelsea+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-05T05:21:02.311917Z
+2021-02-05
+2021-02-04 kdj
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 33333
+match is ++ Tottenham Hotspur vs Chelsea
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Tottenham+Hotspur+vs+Chelsea+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-05T05:22:01.937875Z
+2021-02-05
+2021-02-04 kdj
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 33333
+match is ++ Tottenham Hotspur vs Chelsea
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Tottenham+Hotspur+vs+Chelsea+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-05T05:23:02.023674Z
+2021-02-05
+2021-02-04 kdj
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 33333
+match is ++ Tottenham Hotspur vs Chelsea
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Tottenham+Hotspur+vs+Chelsea+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-05T05:24:02.058901Z
+2021-02-05
+2021-02-04 kdj
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 33333
+match is ++ Tottenham Hotspur vs Chelsea
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Tottenham+Hotspur+vs+Chelsea+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-05T05:25:02.062558Z
+2021-02-05
+2021-02-04 kdj
+{'_id': ObjectId('601c594abf8b42460c84acd5'), 'date': '2021-02-04', 'league_name': 'English Premier League', 'match_list': ['Tottenham Hotspur vs Chelsea'], 'vid_id_list': ['nfVtiW7YV4Q']} 33333
+match is ++ Tottenham Hotspur vs Chelsea
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Tottenham+Hotspur+vs+Chelsea+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 3, in <module>
+    youtube = build('youtube', 'v3', developerKey=api_key)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 248, in build
+    content = _retrieve_discovery_doc(
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 316, in _retrieve_discovery_doc
+    resp, content = req.execute(num_retries=num_retries)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 892, in execute
+    resp, content = _retry_request(
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 204, in _retry_request
+    raise exception
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 177, in _retry_request
+    resp, content = http.request(uri, method, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1948, in request
+    (response, content) = self._request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1621, in _request
+    (response, content) = self._conn_request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1528, in _conn_request
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1309, in connect
+    sock.connect((self.host, self.port))
+socket.timeout: timed out
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 3, in <module>
+    youtube = build('youtube', 'v3', developerKey=api_key)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 248, in build
+    content = _retrieve_discovery_doc(
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 316, in _retrieve_discovery_doc
+    resp, content = req.execute(num_retries=num_retries)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 892, in execute
+    resp, content = _retry_request(
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 204, in _retry_request
+    raise exception
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 177, in _retry_request
+    resp, content = http.request(uri, method, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1948, in request
+    (response, content) = self._request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1621, in _request
+    (response, content) = self._conn_request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1528, in _conn_request
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1309, in connect
+    sock.connect((self.host, self.port))
+socket.timeout: timed out
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 3, in <module>
+    youtube = build('youtube', 'v3', developerKey=api_key)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 248, in build
+    content = _retrieve_discovery_doc(
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 316, in _retrieve_discovery_doc
+    resp, content = req.execute(num_retries=num_retries)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 892, in execute
+    resp, content = _retry_request(
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 204, in _retry_request
+    raise exception
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 177, in _retry_request
+    resp, content = http.request(uri, method, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1948, in request
+    (response, content) = self._request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1621, in _request
+    (response, content) = self._conn_request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1528, in _conn_request
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1309, in connect
+    sock.connect((self.host, self.port))
+socket.timeout: timed out
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 3, in <module>
+    youtube = build('youtube', 'v3', developerKey=api_key)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 248, in build
+    content = _retrieve_discovery_doc(
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/discovery.py", line 316, in _retrieve_discovery_doc
+    resp, content = req.execute(num_retries=num_retries)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 892, in execute
+    resp, content = _retry_request(
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 204, in _retry_request
+    raise exception
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 177, in _retry_request
+    resp, content = http.request(uri, method, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1948, in request
+    (response, content) = self._request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1621, in _request
+    (response, content) = self._conn_request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1528, in _conn_request
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1309, in connect
+    sock.connect((self.host, self.port))
+socket.timeout: timed out

@@ -56,7 +56,9 @@ league_list_of_interest = ['English Premier League',
 'Turkish Super Lig',
 'Coppa Italia',
 'FRENCH LIGUE 1',
-'SPANISH LA LIGA']
+'Spanish La Liga',
+'German Bundesliga',
+'Italian Serie A']
 for lis in mylis:
     # company_names = lis.find_all('span', {"class": "CompactText__DataCompactText-sc-1rtlz3k-0 jdvCWg"})
     # print(lis)
@@ -76,6 +78,7 @@ for lis in mylis:
 
     print(league_object)
     if league_object.league_name in league_list_of_interest:
+        print('present 3333')
         key = {'league_name': league_title.text, 'date': league_object.date }
         characters.update_one(key, {"$set": league_object.__dict__}, upsert=True)
         print("+++++++++++++++")
