@@ -1,82 +1,74 @@
-anomaly = something that is unusual or unexpected
+anomaly = something that is unusual
 
-equivocal = not easily understood or explained
+equivocal = not easily understood
 
-lucid = very clear and easy to understand
+lucid = clear
 
-precipitate = to cause something to happen qucikly or suddenly
+precipitate = cause to happen suddenly
 
 assuage = to make an unpleasant feeling less intense
 
-erudite = having or showing great knowledge
+erudite = having great knowledge
 
-opaque = not able to be seen through; not easily understood
+opaque = not transparent
 
 prodigal = wastefully extravagant
 
-enigma = a person or thing that is mysterious, puzzling or difficult
-            to understand
+enigma = mystery
 
-fervid = intensely enthusiastic or passionate
+fervid = passionate
 
+placate = make less angry
 
+zeal = a strong interest
 
-placate = to make someone less angry or hostile
+abstain = refrain
 
-zeal = a strong feel of interest or enthusiasm that makes someone very
-            eager or determined to do something
+audacious = daring
 
-abstain = to restrain onself from doing something or enjoying
-
-audacious = a willingness to take bold risks, showing lack of respect
-
-desiccate = remove the moisture from something
+desiccate = remove moisture
 
 gullible = easily persuaded to believe something
 
-laudable = deserving praise or commendation
+laudable = deserving praise, commendable
 
 pedant = a person who makes an excessive display of learning
 
 vacillate = to waver between differnet opinions or actions
 
-adulterate = to make something impure or weaker by adding something
-            of inferior quality
+adulterate = make something impure
 
+capricious = unstable
 
+engender = produce
 
-capricious = given to sudden changes to mood or behaviour
+homogenous = same kind
 
-engender = to produce, cause, or give rise to something
+loquacious = talkative
 
-homogenous = of the same or similar kind
+pragmatic = reasonable and practical
 
-loquacious = tending to talk a great deal
+volatile = capricious
 
-pragmatic = dealing with problems that exist in a reasonable and logical
-                way instead of depending on theories
+apathy = lack of interest
 
-volatile = likely to change rapidly and unpredictably
+corroborate = make certain
 
-apathy = lack of interest, enthusiasm or concern
-
-corroborate = to confirm or make more certain
-
-ephemeral = lasting for a very short time
+ephemeral = temporary
 
 laconic = using few words
 
-mitigate = make less severe, serious or painful
+mitigate = stop
 
-propriety = the state or quality of being correct or proper
+propriety = the state of being correct
 
-advocate = publicly recommend or support
+advocate = publicly support
 
-cacophony = a harsh or unpleasant mixture of sounds
+cacophony = unpleasant mixture of sounds
 
-enervate = cause someone or something to feel drained of energy; weaken
+enervate = weaken
 
-ingenous = innocent or unsuspecting
+ingenous = innocent
 
 misanthrope = a person who dislikes humankind
 
@@ -84,13 +76,11 @@ paradox = a statement that contradicts itself but might be true
 
 venerate = regard with great respect
 
-antipathy = a strong feeling of dislike
+antipathy = dislike
 
+deride = mock, ridicule
 
-deride = to express contempt for; ridicule
-
-eulogy = a speech that praises someone, typically someone who has recently
-            died
+eulogy = a speech that praises someone
 
 lethargic = lacking energy
 
@@ -100,11 +90,11 @@ philanthropic = seeking to promote welfare of others
 
 waver = to go back and forth between choices or opinions
 
-bolster = to support or strengthen
+bolster = strengthen
 
 dissonance = a lack of harmony or agreement
 
-garrulous = excessively talkative
+garrulous = excessively talkative, loquacious
 
 malleable = easily influenced, pliable
 
@@ -112,4 +102,43 @@ ostentation = excessive display of wealth
 
 prevaricate = avoid telling the truth by not directly answering
                 a question
-                
+
+
+abeyance = suspension, remission
+
+abjure = relinquish, disavow, reject
+
+anodyne = not offensive, bland, innocuous
+
+bilk = deceive, cheat, swindle, defraud
+
+canard = gossip, whisper
+
+catalyst = stimulus, spark, impetus
+
+catharsis = relief
+
+cloture = end a debate by taking vote
+
+compendium = compilation, anthology
+
+conscript = draft, enlist compulsorily, recruit
+
+cosset = over indulge, pander to
+
+coterie = set of people with shared tastes, clique, circle
+
+dilettante = a person who cultivates an area of interest without
+        real commitment, tinkerer, dabbler, potterer
+
+diurnal = daily, everyday
+
+
+
+Passing year = 2015
+Percentage = B.Tech = 5.7, M.Tech = 6.3
+Program = B.Tech and M.Tech Dual Degree, Computer Science and Engg
+Backlogs = None
+Work Exp = 5 years
+Gre = Yet to be taken
+Ielts = 6.5

@@ -2516,3 +2516,1360 @@ Traceback (most recent call last):
   File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1309, in connect
     sock.connect((self.host, self.port))
 socket.timeout: timed out
+2021-02-06T04:31:01.835347Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela']} 33333
+match is ++ Rio Ave vs CD Nacional
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 892, in execute
+    resp, content = _retry_request(
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 204, in _retry_request
+    raise exception
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 177, in _retry_request
+    resp, content = http.request(uri, method, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1948, in request
+    (response, content) = self._request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1621, in _request
+    (response, content) = self._conn_request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1528, in _conn_request
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1309, in connect
+    sock.connect((self.host, self.port))
+socket.timeout: timed out
+2021-02-06T04:31:02.534842Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela']} 33333
+match is ++ Rio Ave vs CD Nacional
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 892, in execute
+    resp, content = _retry_request(
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 204, in _retry_request
+    raise exception
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 177, in _retry_request
+    resp, content = http.request(uri, method, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1948, in request
+    (response, content) = self._request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1621, in _request
+    (response, content) = self._conn_request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1528, in _conn_request
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1309, in connect
+    sock.connect((self.host, self.port))
+socket.timeout: timed out
+2021-02-06T04:32:01.878797Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela']} 33333
+match is ++ Rio Ave vs CD Nacional
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 892, in execute
+    resp, content = _retry_request(
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 204, in _retry_request
+    raise exception
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 177, in _retry_request
+    resp, content = http.request(uri, method, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1948, in request
+    (response, content) = self._request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1621, in _request
+    (response, content) = self._conn_request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1528, in _conn_request
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1309, in connect
+    sock.connect((self.host, self.port))
+socket.timeout: timed out
+2021-02-06T04:33:01.694355Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela']} 33333
+match is ++ Rio Ave vs CD Nacional
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 892, in execute
+    resp, content = _retry_request(
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 204, in _retry_request
+    raise exception
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 177, in _retry_request
+    resp, content = http.request(uri, method, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1948, in request
+    (response, content) = self._request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1621, in _request
+    (response, content) = self._conn_request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1528, in _conn_request
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1309, in connect
+    sock.connect((self.host, self.port))
+socket.timeout: timed out
+2021-02-06T04:34:01.974231Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela']} 33333
+match is ++ Rio Ave vs CD Nacional
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 892, in execute
+    resp, content = _retry_request(
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 204, in _retry_request
+    raise exception
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 177, in _retry_request
+    resp, content = http.request(uri, method, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1948, in request
+    (response, content) = self._request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1621, in _request
+    (response, content) = self._conn_request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1528, in _conn_request
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1309, in connect
+    sock.connect((self.host, self.port))
+socket.timeout: timed out
+2021-02-06T04:35:01.859566Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela']} 33333
+match is ++ Rio Ave vs CD Nacional
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 892, in execute
+    resp, content = _retry_request(
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 204, in _retry_request
+    raise exception
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 177, in _retry_request
+    resp, content = http.request(uri, method, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1948, in request
+    (response, content) = self._request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1621, in _request
+    (response, content) = self._conn_request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1528, in _conn_request
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1309, in connect
+    sock.connect((self.host, self.port))
+socket.timeout: timed out
+2021-02-06T04:36:02.185366Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela']} 33333
+match is ++ Rio Ave vs CD Nacional
+10
+
+match is ++ Benfica vs Vitória Guimarães
+10
+
+match is ++ Marítimo vs Sporting CP
+10
+
+match is ++ Boavista vs Gil Vicente
+10
+
+match is ++ Paços de Ferreira vs Tondela
+10
+
+['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']
+{'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 999999
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela']} 11111
+601ce463bf8b42460c84afb4 888888
+Portuguese Primeira Liga
+{'_id': ObjectId('601ce5bdbf8b42460c84afd6'), 'date': '2021-02-05', 'league_name': 'Spanish La Liga', 'match_list': ['Alavés vs Real Valladolid']} 33333
+match is ++ Alavés vs Real Valladolid
+10
+
+['lUymr-G0qOo']
+{'vid_id_list': ['lUymr-G0qOo']} 999999
+{'_id': ObjectId('601ce5bdbf8b42460c84afd6'), 'date': '2021-02-05', 'league_name': 'Spanish La Liga', 'match_list': ['Alavés vs Real Valladolid']} 11111
+601ce5bdbf8b42460c84afd6 888888
+Spanish La Liga
+{'_id': ObjectId('601ce5bdbf8b42460c84afd8'), 'date': '2021-02-05', 'league_name': 'German Bundesliga', 'match_list': ['Hertha BSC vs FC Bayern München']} 33333
+match is ++ Hertha BSC vs FC Bayern München
+10
+
+['lzStjt0nfac']
+{'vid_id_list': ['lzStjt0nfac']} 999999
+{'_id': ObjectId('601ce5bdbf8b42460c84afd8'), 'date': '2021-02-05', 'league_name': 'German Bundesliga', 'match_list': ['Hertha BSC vs FC Bayern München']} 11111
+601ce5bdbf8b42460c84afd8 888888
+German Bundesliga
+{'_id': ObjectId('601ce5bdbf8b42460c84afda'), 'date': '2021-02-05', 'league_name': 'Italian Serie A', 'match_list': ['Fiorentina vs Internazionale']} 33333
+match is ++ Fiorentina vs Internazionale
+10
+
+['ejEi5S0Pk1I']
+{'vid_id_list': ['ejEi5S0Pk1I']} 999999
+{'_id': ObjectId('601ce5bdbf8b42460c84afda'), 'date': '2021-02-05', 'league_name': 'Italian Serie A', 'match_list': ['Fiorentina vs Internazionale']} 11111
+601ce5bdbf8b42460c84afda 888888
+Italian Serie A
+2021-02-06T04:37:02.168836Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 33333
+match is ++ Rio Ave vs CD Nacional
+10
+
+match is ++ Benfica vs Vitória Guimarães
+10
+
+match is ++ Marítimo vs Sporting CP
+10
+
+match is ++ Boavista vs Gil Vicente
+10
+
+match is ++ Paços de Ferreira vs Tondela
+10
+
+['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']
+{'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 999999
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 11111
+601ce463bf8b42460c84afb4 888888
+Portuguese Primeira Liga
+{'_id': ObjectId('601ce5bdbf8b42460c84afd6'), 'date': '2021-02-05', 'league_name': 'Spanish La Liga', 'match_list': ['Alavés vs Real Valladolid'], 'vid_id_list': ['lUymr-G0qOo']} 33333
+match is ++ Alavés vs Real Valladolid
+10
+
+['lUymr-G0qOo']
+{'vid_id_list': ['lUymr-G0qOo']} 999999
+{'_id': ObjectId('601ce5bdbf8b42460c84afd6'), 'date': '2021-02-05', 'league_name': 'Spanish La Liga', 'match_list': ['Alavés vs Real Valladolid'], 'vid_id_list': ['lUymr-G0qOo']} 11111
+601ce5bdbf8b42460c84afd6 888888
+Spanish La Liga
+{'_id': ObjectId('601ce5bdbf8b42460c84afd8'), 'date': '2021-02-05', 'league_name': 'German Bundesliga', 'match_list': ['Hertha BSC vs FC Bayern München'], 'vid_id_list': ['lzStjt0nfac']} 33333
+match is ++ Hertha BSC vs FC Bayern München
+10
+
+['lzStjt0nfac']
+{'vid_id_list': ['lzStjt0nfac']} 999999
+{'_id': ObjectId('601ce5bdbf8b42460c84afd8'), 'date': '2021-02-05', 'league_name': 'German Bundesliga', 'match_list': ['Hertha BSC vs FC Bayern München'], 'vid_id_list': ['lzStjt0nfac']} 11111
+601ce5bdbf8b42460c84afd8 888888
+German Bundesliga
+{'_id': ObjectId('601ce5bdbf8b42460c84afda'), 'date': '2021-02-05', 'league_name': 'Italian Serie A', 'match_list': ['Fiorentina vs Internazionale'], 'vid_id_list': ['ejEi5S0Pk1I']} 33333
+match is ++ Fiorentina vs Internazionale
+10
+
+['ejEi5S0Pk1I']
+{'vid_id_list': ['ejEi5S0Pk1I']} 999999
+{'_id': ObjectId('601ce5bdbf8b42460c84afda'), 'date': '2021-02-05', 'league_name': 'Italian Serie A', 'match_list': ['Fiorentina vs Internazionale'], 'vid_id_list': ['ejEi5S0Pk1I']} 11111
+601ce5bdbf8b42460c84afda 888888
+Italian Serie A
+2021-02-06T04:38:02.172187Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 33333
+match is ++ Rio Ave vs CD Nacional
+10
+
+match is ++ Benfica vs Vitória Guimarães
+10
+
+match is ++ Marítimo vs Sporting CP
+10
+
+match is ++ Boavista vs Gil Vicente
+10
+
+match is ++ Paços de Ferreira vs Tondela
+10
+
+['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']
+{'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 999999
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 11111
+601ce463bf8b42460c84afb4 888888
+Portuguese Primeira Liga
+{'_id': ObjectId('601ce5bdbf8b42460c84afd6'), 'date': '2021-02-05', 'league_name': 'Spanish La Liga', 'match_list': ['Alavés vs Real Valladolid'], 'vid_id_list': ['lUymr-G0qOo']} 33333
+match is ++ Alavés vs Real Valladolid
+10
+
+['lUymr-G0qOo']
+{'vid_id_list': ['lUymr-G0qOo']} 999999
+{'_id': ObjectId('601ce5bdbf8b42460c84afd6'), 'date': '2021-02-05', 'league_name': 'Spanish La Liga', 'match_list': ['Alavés vs Real Valladolid'], 'vid_id_list': ['lUymr-G0qOo']} 11111
+601ce5bdbf8b42460c84afd6 888888
+Spanish La Liga
+{'_id': ObjectId('601ce5bdbf8b42460c84afd8'), 'date': '2021-02-05', 'league_name': 'German Bundesliga', 'match_list': ['Hertha BSC vs FC Bayern München'], 'vid_id_list': ['lzStjt0nfac']} 33333
+match is ++ Hertha BSC vs FC Bayern München
+10
+
+['lzStjt0nfac']
+{'vid_id_list': ['lzStjt0nfac']} 999999
+{'_id': ObjectId('601ce5bdbf8b42460c84afd8'), 'date': '2021-02-05', 'league_name': 'German Bundesliga', 'match_list': ['Hertha BSC vs FC Bayern München'], 'vid_id_list': ['lzStjt0nfac']} 11111
+601ce5bdbf8b42460c84afd8 888888
+German Bundesliga
+{'_id': ObjectId('601ce5bdbf8b42460c84afda'), 'date': '2021-02-05', 'league_name': 'Italian Serie A', 'match_list': ['Fiorentina vs Internazionale'], 'vid_id_list': ['ejEi5S0Pk1I']} 33333
+match is ++ Fiorentina vs Internazionale
+10
+
+['ejEi5S0Pk1I']
+{'vid_id_list': ['ejEi5S0Pk1I']} 999999
+{'_id': ObjectId('601ce5bdbf8b42460c84afda'), 'date': '2021-02-05', 'league_name': 'Italian Serie A', 'match_list': ['Fiorentina vs Internazionale'], 'vid_id_list': ['ejEi5S0Pk1I']} 11111
+601ce5bdbf8b42460c84afda 888888
+Italian Serie A
+2021-02-06T04:39:02.194252Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 33333
+match is ++ Rio Ave vs CD Nacional
+10
+
+match is ++ Benfica vs Vitória Guimarães
+10
+
+match is ++ Marítimo vs Sporting CP
+10
+
+match is ++ Boavista vs Gil Vicente
+10
+
+match is ++ Paços de Ferreira vs Tondela
+10
+
+['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']
+{'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 999999
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 11111
+601ce463bf8b42460c84afb4 888888
+Portuguese Primeira Liga
+{'_id': ObjectId('601ce5bdbf8b42460c84afd6'), 'date': '2021-02-05', 'league_name': 'Spanish La Liga', 'match_list': ['Alavés vs Real Valladolid'], 'vid_id_list': ['lUymr-G0qOo']} 33333
+match is ++ Alavés vs Real Valladolid
+10
+
+['d6J4hxX8Fdg']
+{'vid_id_list': ['d6J4hxX8Fdg']} 999999
+{'_id': ObjectId('601ce5bdbf8b42460c84afd6'), 'date': '2021-02-05', 'league_name': 'Spanish La Liga', 'match_list': ['Alavés vs Real Valladolid'], 'vid_id_list': ['lUymr-G0qOo']} 11111
+601ce5bdbf8b42460c84afd6 888888
+Spanish La Liga
+{'_id': ObjectId('601ce5bdbf8b42460c84afd8'), 'date': '2021-02-05', 'league_name': 'German Bundesliga', 'match_list': ['Hertha BSC vs FC Bayern München'], 'vid_id_list': ['lzStjt0nfac']} 33333
+match is ++ Hertha BSC vs FC Bayern München
+10
+
+['lzStjt0nfac']
+{'vid_id_list': ['lzStjt0nfac']} 999999
+{'_id': ObjectId('601ce5bdbf8b42460c84afd8'), 'date': '2021-02-05', 'league_name': 'German Bundesliga', 'match_list': ['Hertha BSC vs FC Bayern München'], 'vid_id_list': ['lzStjt0nfac']} 11111
+601ce5bdbf8b42460c84afd8 888888
+German Bundesliga
+{'_id': ObjectId('601ce5bdbf8b42460c84afda'), 'date': '2021-02-05', 'league_name': 'Italian Serie A', 'match_list': ['Fiorentina vs Internazionale'], 'vid_id_list': ['ejEi5S0Pk1I']} 33333
+match is ++ Fiorentina vs Internazionale
+10
+
+['ejEi5S0Pk1I']
+{'vid_id_list': ['ejEi5S0Pk1I']} 999999
+{'_id': ObjectId('601ce5bdbf8b42460c84afda'), 'date': '2021-02-05', 'league_name': 'Italian Serie A', 'match_list': ['Fiorentina vs Internazionale'], 'vid_id_list': ['ejEi5S0Pk1I']} 11111
+601ce5bdbf8b42460c84afda 888888
+Italian Serie A
+2021-02-06T04:40:01.685004Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 33333
+match is ++ Rio Ave vs CD Nacional
+10
+
+match is ++ Benfica vs Vitória Guimarães
+10
+
+match is ++ Marítimo vs Sporting CP
+10
+
+match is ++ Boavista vs Gil Vicente
+10
+
+match is ++ Paços de Ferreira vs Tondela
+10
+
+['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']
+{'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 999999
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 11111
+601ce463bf8b42460c84afb4 888888
+Portuguese Primeira Liga
+{'_id': ObjectId('601ce5bdbf8b42460c84afd6'), 'date': '2021-02-05', 'league_name': 'Spanish La Liga', 'match_list': ['Alavés vs Real Valladolid'], 'vid_id_list': ['d6J4hxX8Fdg']} 33333
+match is ++ Alavés vs Real Valladolid
+10
+
+['d6J4hxX8Fdg']
+{'vid_id_list': ['d6J4hxX8Fdg']} 999999
+{'_id': ObjectId('601ce5bdbf8b42460c84afd6'), 'date': '2021-02-05', 'league_name': 'Spanish La Liga', 'match_list': ['Alavés vs Real Valladolid'], 'vid_id_list': ['d6J4hxX8Fdg']} 11111
+601ce5bdbf8b42460c84afd6 888888
+Spanish La Liga
+{'_id': ObjectId('601ce5bdbf8b42460c84afd8'), 'date': '2021-02-05', 'league_name': 'German Bundesliga', 'match_list': ['Hertha BSC vs FC Bayern München'], 'vid_id_list': ['lzStjt0nfac']} 33333
+match is ++ Hertha BSC vs FC Bayern München
+10
+
+['lzStjt0nfac']
+{'vid_id_list': ['lzStjt0nfac']} 999999
+{'_id': ObjectId('601ce5bdbf8b42460c84afd8'), 'date': '2021-02-05', 'league_name': 'German Bundesliga', 'match_list': ['Hertha BSC vs FC Bayern München'], 'vid_id_list': ['lzStjt0nfac']} 11111
+601ce5bdbf8b42460c84afd8 888888
+German Bundesliga
+{'_id': ObjectId('601ce5bdbf8b42460c84afda'), 'date': '2021-02-05', 'league_name': 'Italian Serie A', 'match_list': ['Fiorentina vs Internazionale'], 'vid_id_list': ['ejEi5S0Pk1I']} 33333
+match is ++ Fiorentina vs Internazionale
+10
+
+['ejEi5S0Pk1I']
+{'vid_id_list': ['ejEi5S0Pk1I']} 999999
+{'_id': ObjectId('601ce5bdbf8b42460c84afda'), 'date': '2021-02-05', 'league_name': 'Italian Serie A', 'match_list': ['Fiorentina vs Internazionale'], 'vid_id_list': ['ejEi5S0Pk1I']} 11111
+601ce5bdbf8b42460c84afda 888888
+Italian Serie A
+2021-02-06T04:41:02.168492Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 33333
+match is ++ Rio Ave vs CD Nacional
+10
+
+match is ++ Benfica vs Vitória Guimarães
+10
+
+match is ++ Marítimo vs Sporting CP
+10
+
+match is ++ Boavista vs Gil Vicente
+10
+
+match is ++ Paços de Ferreira vs Tondela
+10
+
+['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']
+{'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 999999
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 11111
+601ce463bf8b42460c84afb4 888888
+Portuguese Primeira Liga
+{'_id': ObjectId('601ce5bdbf8b42460c84afd6'), 'date': '2021-02-05', 'league_name': 'Spanish La Liga', 'match_list': ['Alavés vs Real Valladolid'], 'vid_id_list': ['d6J4hxX8Fdg']} 33333
+match is ++ Alavés vs Real Valladolid
+10
+
+['d6J4hxX8Fdg']
+{'vid_id_list': ['d6J4hxX8Fdg']} 999999
+{'_id': ObjectId('601ce5bdbf8b42460c84afd6'), 'date': '2021-02-05', 'league_name': 'Spanish La Liga', 'match_list': ['Alavés vs Real Valladolid'], 'vid_id_list': ['d6J4hxX8Fdg']} 11111
+601ce5bdbf8b42460c84afd6 888888
+Spanish La Liga
+{'_id': ObjectId('601ce5bdbf8b42460c84afd8'), 'date': '2021-02-05', 'league_name': 'German Bundesliga', 'match_list': ['Hertha BSC vs FC Bayern München'], 'vid_id_list': ['lzStjt0nfac']} 33333
+match is ++ Hertha BSC vs FC Bayern München
+10
+
+['NopI8SCbXpA']
+{'vid_id_list': ['NopI8SCbXpA']} 999999
+{'_id': ObjectId('601ce5bdbf8b42460c84afd8'), 'date': '2021-02-05', 'league_name': 'German Bundesliga', 'match_list': ['Hertha BSC vs FC Bayern München'], 'vid_id_list': ['lzStjt0nfac']} 11111
+601ce5bdbf8b42460c84afd8 888888
+German Bundesliga
+{'_id': ObjectId('601ce5bdbf8b42460c84afda'), 'date': '2021-02-05', 'league_name': 'Italian Serie A', 'match_list': ['Fiorentina vs Internazionale'], 'vid_id_list': ['ejEi5S0Pk1I']} 33333
+match is ++ Fiorentina vs Internazionale
+10
+
+['ejEi5S0Pk1I']
+{'vid_id_list': ['ejEi5S0Pk1I']} 999999
+{'_id': ObjectId('601ce5bdbf8b42460c84afda'), 'date': '2021-02-05', 'league_name': 'Italian Serie A', 'match_list': ['Fiorentina vs Internazionale'], 'vid_id_list': ['ejEi5S0Pk1I']} 11111
+601ce5bdbf8b42460c84afda 888888
+Italian Serie A
+2021-02-06T04:42:01.959454Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 33333
+match is ++ Rio Ave vs CD Nacional
+10
+
+match is ++ Benfica vs Vitória Guimarães
+10
+
+match is ++ Marítimo vs Sporting CP
+10
+
+match is ++ Boavista vs Gil Vicente
+10
+
+match is ++ Paços de Ferreira vs Tondela
+10
+
+['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']
+{'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 999999
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 11111
+601ce463bf8b42460c84afb4 888888
+Portuguese Primeira Liga
+{'_id': ObjectId('601ce5bdbf8b42460c84afd6'), 'date': '2021-02-05', 'league_name': 'Spanish La Liga', 'match_list': ['Alavés vs Real Valladolid'], 'vid_id_list': ['d6J4hxX8Fdg']} 33333
+match is ++ Alavés vs Real Valladolid
+10
+
+['d6J4hxX8Fdg']
+{'vid_id_list': ['d6J4hxX8Fdg']} 999999
+{'_id': ObjectId('601ce5bdbf8b42460c84afd6'), 'date': '2021-02-05', 'league_name': 'Spanish La Liga', 'match_list': ['Alavés vs Real Valladolid'], 'vid_id_list': ['d6J4hxX8Fdg']} 11111
+601ce5bdbf8b42460c84afd6 888888
+Spanish La Liga
+{'_id': ObjectId('601ce5bdbf8b42460c84afd8'), 'date': '2021-02-05', 'league_name': 'German Bundesliga', 'match_list': ['Hertha BSC vs FC Bayern München'], 'vid_id_list': ['NopI8SCbXpA']} 33333
+match is ++ Hertha BSC vs FC Bayern München
+10
+
+['lzStjt0nfac']
+{'vid_id_list': ['lzStjt0nfac']} 999999
+{'_id': ObjectId('601ce5bdbf8b42460c84afd8'), 'date': '2021-02-05', 'league_name': 'German Bundesliga', 'match_list': ['Hertha BSC vs FC Bayern München'], 'vid_id_list': ['NopI8SCbXpA']} 11111
+601ce5bdbf8b42460c84afd8 888888
+German Bundesliga
+{'_id': ObjectId('601ce5bdbf8b42460c84afda'), 'date': '2021-02-05', 'league_name': 'Italian Serie A', 'match_list': ['Fiorentina vs Internazionale'], 'vid_id_list': ['ejEi5S0Pk1I']} 33333
+match is ++ Fiorentina vs Internazionale
+10
+
+['ejEi5S0Pk1I']
+{'vid_id_list': ['ejEi5S0Pk1I']} 999999
+{'_id': ObjectId('601ce5bdbf8b42460c84afda'), 'date': '2021-02-05', 'league_name': 'Italian Serie A', 'match_list': ['Fiorentina vs Internazionale'], 'vid_id_list': ['ejEi5S0Pk1I']} 11111
+601ce5bdbf8b42460c84afda 888888
+Italian Serie A
+2021-02-06T04:43:02.006686Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 33333
+match is ++ Rio Ave vs CD Nacional
+10
+
+match is ++ Benfica vs Vitória Guimarães
+10
+
+match is ++ Marítimo vs Sporting CP
+10
+
+match is ++ Boavista vs Gil Vicente
+10
+
+match is ++ Paços de Ferreira vs Tondela
+10
+
+['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']
+{'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 999999
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 11111
+601ce463bf8b42460c84afb4 888888
+Portuguese Primeira Liga
+{'_id': ObjectId('601ce5bdbf8b42460c84afd6'), 'date': '2021-02-05', 'league_name': 'Spanish La Liga', 'match_list': ['Alavés vs Real Valladolid'], 'vid_id_list': ['d6J4hxX8Fdg']} 33333
+match is ++ Alavés vs Real Valladolid
+10
+
+['d6J4hxX8Fdg']
+{'vid_id_list': ['d6J4hxX8Fdg']} 999999
+{'_id': ObjectId('601ce5bdbf8b42460c84afd6'), 'date': '2021-02-05', 'league_name': 'Spanish La Liga', 'match_list': ['Alavés vs Real Valladolid'], 'vid_id_list': ['d6J4hxX8Fdg']} 11111
+601ce5bdbf8b42460c84afd6 888888
+Spanish La Liga
+{'_id': ObjectId('601ce5bdbf8b42460c84afd8'), 'date': '2021-02-05', 'league_name': 'German Bundesliga', 'match_list': ['Hertha BSC vs FC Bayern München'], 'vid_id_list': ['lzStjt0nfac']} 33333
+match is ++ Hertha BSC vs FC Bayern München
+10
+
+['lzStjt0nfac']
+{'vid_id_list': ['lzStjt0nfac']} 999999
+{'_id': ObjectId('601ce5bdbf8b42460c84afd8'), 'date': '2021-02-05', 'league_name': 'German Bundesliga', 'match_list': ['Hertha BSC vs FC Bayern München'], 'vid_id_list': ['lzStjt0nfac']} 11111
+601ce5bdbf8b42460c84afd8 888888
+German Bundesliga
+{'_id': ObjectId('601ce5bdbf8b42460c84afda'), 'date': '2021-02-05', 'league_name': 'Italian Serie A', 'match_list': ['Fiorentina vs Internazionale'], 'vid_id_list': ['ejEi5S0Pk1I']} 33333
+match is ++ Fiorentina vs Internazionale
+10
+
+['ejEi5S0Pk1I']
+{'vid_id_list': ['ejEi5S0Pk1I']} 999999
+{'_id': ObjectId('601ce5bdbf8b42460c84afda'), 'date': '2021-02-05', 'league_name': 'Italian Serie A', 'match_list': ['Fiorentina vs Internazionale'], 'vid_id_list': ['ejEi5S0Pk1I']} 11111
+601ce5bdbf8b42460c84afda 888888
+Italian Serie A
+2021-02-06T04:44:01.508457Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 33333
+match is ++ Rio Ave vs CD Nacional
+10
+
+match is ++ Benfica vs Vitória Guimarães
+10
+
+match is ++ Marítimo vs Sporting CP
+10
+
+match is ++ Boavista vs Gil Vicente
+10
+
+match is ++ Paços de Ferreira vs Tondela
+10
+
+['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']
+{'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 999999
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 11111
+601ce463bf8b42460c84afb4 888888
+Portuguese Primeira Liga
+{'_id': ObjectId('601ce5bdbf8b42460c84afd6'), 'date': '2021-02-05', 'league_name': 'Spanish La Liga', 'match_list': ['Alavés vs Real Valladolid'], 'vid_id_list': ['d6J4hxX8Fdg']} 33333
+match is ++ Alavés vs Real Valladolid
+10
+
+['lUymr-G0qOo']
+{'vid_id_list': ['lUymr-G0qOo']} 999999
+{'_id': ObjectId('601ce5bdbf8b42460c84afd6'), 'date': '2021-02-05', 'league_name': 'Spanish La Liga', 'match_list': ['Alavés vs Real Valladolid'], 'vid_id_list': ['d6J4hxX8Fdg']} 11111
+601ce5bdbf8b42460c84afd6 888888
+Spanish La Liga
+{'_id': ObjectId('601ce5bdbf8b42460c84afd8'), 'date': '2021-02-05', 'league_name': 'German Bundesliga', 'match_list': ['Hertha BSC vs FC Bayern München'], 'vid_id_list': ['lzStjt0nfac']} 33333
+match is ++ Hertha BSC vs FC Bayern München
+10
+
+['lzStjt0nfac']
+{'vid_id_list': ['lzStjt0nfac']} 999999
+{'_id': ObjectId('601ce5bdbf8b42460c84afd8'), 'date': '2021-02-05', 'league_name': 'German Bundesliga', 'match_list': ['Hertha BSC vs FC Bayern München'], 'vid_id_list': ['lzStjt0nfac']} 11111
+601ce5bdbf8b42460c84afd8 888888
+German Bundesliga
+{'_id': ObjectId('601ce5bdbf8b42460c84afda'), 'date': '2021-02-05', 'league_name': 'Italian Serie A', 'match_list': ['Fiorentina vs Internazionale'], 'vid_id_list': ['ejEi5S0Pk1I']} 33333
+match is ++ Fiorentina vs Internazionale
+10
+
+['ejEi5S0Pk1I']
+{'vid_id_list': ['ejEi5S0Pk1I']} 999999
+{'_id': ObjectId('601ce5bdbf8b42460c84afda'), 'date': '2021-02-05', 'league_name': 'Italian Serie A', 'match_list': ['Fiorentina vs Internazionale'], 'vid_id_list': ['ejEi5S0Pk1I']} 11111
+601ce5bdbf8b42460c84afda 888888
+Italian Serie A
+2021-02-06T04:45:02.027534Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 33333
+match is ++ Rio Ave vs CD Nacional
+10
+
+match is ++ Benfica vs Vitória Guimarães
+10
+
+match is ++ Marítimo vs Sporting CP
+10
+
+match is ++ Boavista vs Gil Vicente
+10
+
+match is ++ Paços de Ferreira vs Tondela
+10
+
+['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']
+{'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 999999
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 11111
+601ce463bf8b42460c84afb4 888888
+Portuguese Primeira Liga
+{'_id': ObjectId('601ce5bdbf8b42460c84afd6'), 'date': '2021-02-05', 'league_name': 'Spanish La Liga', 'match_list': ['Alavés vs Real Valladolid'], 'vid_id_list': ['lUymr-G0qOo']} 33333
+match is ++ Alavés vs Real Valladolid
+10
+
+['d6J4hxX8Fdg']
+{'vid_id_list': ['d6J4hxX8Fdg']} 999999
+{'_id': ObjectId('601ce5bdbf8b42460c84afd6'), 'date': '2021-02-05', 'league_name': 'Spanish La Liga', 'match_list': ['Alavés vs Real Valladolid'], 'vid_id_list': ['lUymr-G0qOo']} 11111
+601ce5bdbf8b42460c84afd6 888888
+Spanish La Liga
+{'_id': ObjectId('601ce5bdbf8b42460c84afd8'), 'date': '2021-02-05', 'league_name': 'German Bundesliga', 'match_list': ['Hertha BSC vs FC Bayern München'], 'vid_id_list': ['lzStjt0nfac']} 33333
+match is ++ Hertha BSC vs FC Bayern München
+10
+
+['lzStjt0nfac']
+{'vid_id_list': ['lzStjt0nfac']} 999999
+{'_id': ObjectId('601ce5bdbf8b42460c84afd8'), 'date': '2021-02-05', 'league_name': 'German Bundesliga', 'match_list': ['Hertha BSC vs FC Bayern München'], 'vid_id_list': ['lzStjt0nfac']} 11111
+601ce5bdbf8b42460c84afd8 888888
+German Bundesliga
+{'_id': ObjectId('601ce5bdbf8b42460c84afda'), 'date': '2021-02-05', 'league_name': 'Italian Serie A', 'match_list': ['Fiorentina vs Internazionale'], 'vid_id_list': ['ejEi5S0Pk1I']} 33333
+match is ++ Fiorentina vs Internazionale
+10
+
+['ejEi5S0Pk1I']
+{'vid_id_list': ['ejEi5S0Pk1I']} 999999
+{'_id': ObjectId('601ce5bdbf8b42460c84afda'), 'date': '2021-02-05', 'league_name': 'Italian Serie A', 'match_list': ['Fiorentina vs Internazionale'], 'vid_id_list': ['ejEi5S0Pk1I']} 11111
+601ce5bdbf8b42460c84afda 888888
+Italian Serie A
+2021-02-06T04:46:02.012937Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 33333
+match is ++ Rio Ave vs CD Nacional
+10
+
+match is ++ Benfica vs Vitória Guimarães
+10
+
+match is ++ Marítimo vs Sporting CP
+10
+
+match is ++ Boavista vs Gil Vicente
+10
+
+match is ++ Paços de Ferreira vs Tondela
+10
+
+['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']
+{'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 999999
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 11111
+601ce463bf8b42460c84afb4 888888
+Portuguese Primeira Liga
+{'_id': ObjectId('601ce5bdbf8b42460c84afd6'), 'date': '2021-02-05', 'league_name': 'Spanish La Liga', 'match_list': ['Alavés vs Real Valladolid'], 'vid_id_list': ['d6J4hxX8Fdg']} 33333
+match is ++ Alavés vs Real Valladolid
+10
+
+['d6J4hxX8Fdg']
+{'vid_id_list': ['d6J4hxX8Fdg']} 999999
+{'_id': ObjectId('601ce5bdbf8b42460c84afd6'), 'date': '2021-02-05', 'league_name': 'Spanish La Liga', 'match_list': ['Alavés vs Real Valladolid'], 'vid_id_list': ['d6J4hxX8Fdg']} 11111
+601ce5bdbf8b42460c84afd6 888888
+Spanish La Liga
+{'_id': ObjectId('601ce5bdbf8b42460c84afd8'), 'date': '2021-02-05', 'league_name': 'German Bundesliga', 'match_list': ['Hertha BSC vs FC Bayern München'], 'vid_id_list': ['lzStjt0nfac']} 33333
+match is ++ Hertha BSC vs FC Bayern München
+10
+
+['lzStjt0nfac']
+{'vid_id_list': ['lzStjt0nfac']} 999999
+{'_id': ObjectId('601ce5bdbf8b42460c84afd8'), 'date': '2021-02-05', 'league_name': 'German Bundesliga', 'match_list': ['Hertha BSC vs FC Bayern München'], 'vid_id_list': ['lzStjt0nfac']} 11111
+601ce5bdbf8b42460c84afd8 888888
+German Bundesliga
+{'_id': ObjectId('601ce5bdbf8b42460c84afda'), 'date': '2021-02-05', 'league_name': 'Italian Serie A', 'match_list': ['Fiorentina vs Internazionale'], 'vid_id_list': ['ejEi5S0Pk1I']} 33333
+match is ++ Fiorentina vs Internazionale
+10
+
+['ejEi5S0Pk1I']
+{'vid_id_list': ['ejEi5S0Pk1I']} 999999
+{'_id': ObjectId('601ce5bdbf8b42460c84afda'), 'date': '2021-02-05', 'league_name': 'Italian Serie A', 'match_list': ['Fiorentina vs Internazionale'], 'vid_id_list': ['ejEi5S0Pk1I']} 11111
+601ce5bdbf8b42460c84afda 888888
+Italian Serie A
+2021-02-06T04:47:01.694225Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 33333
+match is ++ Rio Ave vs CD Nacional
+10
+
+match is ++ Benfica vs Vitória Guimarães
+10
+
+match is ++ Marítimo vs Sporting CP
+10
+
+match is ++ Boavista vs Gil Vicente
+10
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 53, in <module>
+    response = urllib.request.urlopen(searchUrl).read()
+  File "/usr/lib/python3.8/urllib/request.py", line 222, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.8/urllib/request.py", line 531, in open
+    response = meth(req, response)
+  File "/usr/lib/python3.8/urllib/request.py", line 640, in http_response
+    response = self.parent.error(
+  File "/usr/lib/python3.8/urllib/request.py", line 569, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python3.8/urllib/request.py", line 502, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.8/urllib/request.py", line 649, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 403: Forbidden
+2021-02-06T04:48:01.690526Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 33333
+match is ++ Rio Ave vs CD Nacional
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Rio+Ave+vs+CD+Nacional+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-06T04:49:01.710548Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 33333
+match is ++ Rio Ave vs CD Nacional
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Rio+Ave+vs+CD+Nacional+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-06T04:50:01.721092Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 33333
+match is ++ Rio Ave vs CD Nacional
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Rio+Ave+vs+CD+Nacional+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-06T04:51:01.744041Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 33333
+match is ++ Rio Ave vs CD Nacional
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Rio+Ave+vs+CD+Nacional+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-06T04:52:01.771376Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 33333
+match is ++ Rio Ave vs CD Nacional
+10
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 53, in <module>
+    response = urllib.request.urlopen(searchUrl).read()
+  File "/usr/lib/python3.8/urllib/request.py", line 222, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.8/urllib/request.py", line 531, in open
+    response = meth(req, response)
+  File "/usr/lib/python3.8/urllib/request.py", line 640, in http_response
+    response = self.parent.error(
+  File "/usr/lib/python3.8/urllib/request.py", line 569, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python3.8/urllib/request.py", line 502, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.8/urllib/request.py", line 649, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 403: Forbidden
+2021-02-06T04:53:02.251871Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 33333
+match is ++ Rio Ave vs CD Nacional
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Rio+Ave+vs+CD+Nacional+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-06T04:54:02.246474Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 33333
+match is ++ Rio Ave vs CD Nacional
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Rio+Ave+vs+CD+Nacional+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-06T04:55:02.244387Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 33333
+match is ++ Rio Ave vs CD Nacional
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Rio+Ave+vs+CD+Nacional+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-06T04:56:02.207846Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 33333
+match is ++ Rio Ave vs CD Nacional
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 892, in execute
+    resp, content = _retry_request(
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 204, in _retry_request
+    raise exception
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 177, in _retry_request
+    resp, content = http.request(uri, method, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1948, in request
+    (response, content) = self._request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1621, in _request
+    (response, content) = self._conn_request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1528, in _conn_request
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1309, in connect
+    sock.connect((self.host, self.port))
+socket.timeout: timed out
+2021-02-06T04:57:02.250187Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 33333
+match is ++ Rio Ave vs CD Nacional
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 892, in execute
+    resp, content = _retry_request(
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 204, in _retry_request
+    raise exception
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 177, in _retry_request
+    resp, content = http.request(uri, method, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1948, in request
+    (response, content) = self._request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1621, in _request
+    (response, content) = self._conn_request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1528, in _conn_request
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1309, in connect
+    sock.connect((self.host, self.port))
+socket.timeout: timed out
+2021-02-06T04:58:02.280929Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 33333
+match is ++ Rio Ave vs CD Nacional
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 892, in execute
+    resp, content = _retry_request(
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 204, in _retry_request
+    raise exception
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 177, in _retry_request
+    resp, content = http.request(uri, method, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1948, in request
+    (response, content) = self._request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1621, in _request
+    (response, content) = self._conn_request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1528, in _conn_request
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1309, in connect
+    sock.connect((self.host, self.port))
+socket.timeout: timed out
+2021-02-06T04:59:02.345480Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 33333
+match is ++ Rio Ave vs CD Nacional
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 892, in execute
+    resp, content = _retry_request(
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 204, in _retry_request
+    raise exception
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 177, in _retry_request
+    resp, content = http.request(uri, method, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1948, in request
+    (response, content) = self._request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1621, in _request
+    (response, content) = self._conn_request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1528, in _conn_request
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1309, in connect
+    sock.connect((self.host, self.port))
+socket.timeout: timed out
+2021-02-06T05:01:01.446141Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 33333
+match is ++ Rio Ave vs CD Nacional
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Rio+Ave+vs+CD+Nacional+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-06T05:00:03.193317Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 33333
+match is ++ Rio Ave vs CD Nacional
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 892, in execute
+    resp, content = _retry_request(
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 204, in _retry_request
+    raise exception
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 177, in _retry_request
+    resp, content = http.request(uri, method, *args, **kwargs)
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1948, in request
+    (response, content) = self._request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1621, in _request
+    (response, content) = self._conn_request(
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1528, in _conn_request
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/httplib2/__init__.py", line 1309, in connect
+    sock.connect((self.host, self.port))
+socket.timeout: timed out
+2021-02-06T05:02:02.266325Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 33333
+match is ++ Rio Ave vs CD Nacional
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Rio+Ave+vs+CD+Nacional+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-06T05:03:02.257678Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 33333
+match is ++ Rio Ave vs CD Nacional
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Rio+Ave+vs+CD+Nacional+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-06T05:04:02.260072Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 33333
+match is ++ Rio Ave vs CD Nacional
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Rio+Ave+vs+CD+Nacional+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-06T05:05:02.272702Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 33333
+match is ++ Rio Ave vs CD Nacional
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Rio+Ave+vs+CD+Nacional+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-06T05:06:02.298865Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 33333
+match is ++ Rio Ave vs CD Nacional
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Rio+Ave+vs+CD+Nacional+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-06T05:07:02.290917Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 33333
+match is ++ Rio Ave vs CD Nacional
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Rio+Ave+vs+CD+Nacional+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-06T05:08:07.307241Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 33333
+match is ++ Rio Ave vs CD Nacional
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Rio+Ave+vs+CD+Nacional+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-06T05:09:02.332267Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 33333
+match is ++ Rio Ave vs CD Nacional
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Rio+Ave+vs+CD+Nacional+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-06T05:10:02.340455Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 33333
+match is ++ Rio Ave vs CD Nacional
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Rio+Ave+vs+CD+Nacional+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-06T05:11:02.338929Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 33333
+match is ++ Rio Ave vs CD Nacional
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Rio+Ave+vs+CD+Nacional+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-06T05:12:02.335345Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 33333
+match is ++ Rio Ave vs CD Nacional
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Rio+Ave+vs+CD+Nacional+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-06T05:13:02.363296Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 33333
+match is ++ Rio Ave vs CD Nacional
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Rio+Ave+vs+CD+Nacional+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-06T05:14:02.349212Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 33333
+match is ++ Rio Ave vs CD Nacional
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Rio+Ave+vs+CD+Nacional+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-06T05:15:02.423590Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 33333
+match is ++ Rio Ave vs CD Nacional
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Rio+Ave+vs+CD+Nacional+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-06T05:16:02.399689Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 33333
+match is ++ Rio Ave vs CD Nacional
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Rio+Ave+vs+CD+Nacional+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-06T05:17:02.376188Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 33333
+match is ++ Rio Ave vs CD Nacional
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Rio+Ave+vs+CD+Nacional+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-06T05:18:02.385198Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 33333
+match is ++ Rio Ave vs CD Nacional
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Rio+Ave+vs+CD+Nacional+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-06T05:19:02.346644Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 33333
+match is ++ Rio Ave vs CD Nacional
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Rio+Ave+vs+CD+Nacional+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-06T05:20:02.389499Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 33333
+match is ++ Rio Ave vs CD Nacional
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Rio+Ave+vs+CD+Nacional+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-06T05:21:02.378455Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 33333
+match is ++ Rio Ave vs CD Nacional
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Rio+Ave+vs+CD+Nacional+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-06T05:22:02.369414Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 33333
+match is ++ Rio Ave vs CD Nacional
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Rio+Ave+vs+CD+Nacional+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-06T05:23:02.371773Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 33333
+match is ++ Rio Ave vs CD Nacional
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Rio+Ave+vs+CD+Nacional+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-06T05:24:03.322675Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 33333
+match is ++ Rio Ave vs CD Nacional
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Rio+Ave+vs+CD+Nacional+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-06T05:25:01.958485Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 33333
+match is ++ Rio Ave vs CD Nacional
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Rio+Ave+vs+CD+Nacional+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-06T05:26:01.979054Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 33333
+match is ++ Rio Ave vs CD Nacional
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Rio+Ave+vs+CD+Nacional+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-06T05:27:01.959998Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 33333
+match is ++ Rio Ave vs CD Nacional
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Rio+Ave+vs+CD+Nacional+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-06T05:28:01.967344Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 33333
+match is ++ Rio Ave vs CD Nacional
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Rio+Ave+vs+CD+Nacional+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">
+2021-02-06T05:29:01.935925Z
+2021-02-06
+2021-02-05 kdj
+{'_id': ObjectId('601ce463bf8b42460c84afb4'), 'date': '2021-02-05', 'league_name': 'Portuguese Primeira Liga', 'match_list': ['Rio Ave vs CD Nacional', 'Benfica vs Vitória Guimarães', 'Marítimo vs Sporting CP', 'Boavista vs Gil Vicente', 'Paços de Ferreira vs Tondela'], 'vid_id_list': ['X_juekW_KNs', 'XIIWvhQILM8', 'NGnGhJ2mBAA', 'bDOA84ovulE', 'SF1YikJ97V8']} 33333
+match is ++ Rio Ave vs CD Nacional
+Traceback (most recent call last):
+  File "/home/sunil/Desktop/ytAPI/youtubeAPITestOne.py", line 35, in <module>
+    res = req.execute()
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/googleapiclient/http.py", line 907, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=Rio+Ave+vs+CD+Nacional+highlights&part=snippet&type=video&maxResults=10&key=AIzaSyBtfyFYMTFiCg6J9XgxZR4l0HVVrENPMMs&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.">

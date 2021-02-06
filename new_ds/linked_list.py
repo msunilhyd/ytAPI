@@ -9,6 +9,7 @@ class SLinkedList:
 
 list1 = SLinkedList()
 list1.headval = Node("Mon")
+print(list1.headval.dataval)
 e2 = Node("Tue")
 e3 = Node("Wed")
 
